@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BRAC Education Program</string>
+    <string name="at_a_glance">At a glance</string>
+    <string name="education_programme">Education Programme</string>
+    <string name="brac_primary_schools">BRAC primary schools</string>
+    <string name="brac_sre_srimary_schools">BRAC pre-srimary schools</string>
+    <string name="shishu_niketon">Shishu niketon</string>
+    <string name="education_support_programme">Education support programme</string>
+    <string name="early_childhood_development">Early childhood development</string>
+    <string name="working_with_mainstream_secondary_schools">Working with mainstream secondary schools</string>
+    <string name="adolescent_development_programme">Adolescent development programme</string>
+    <string name="multipurpose_community_learning_centres">Multipurpose community learning centres</string>
+    <string name="inclusive_education">Inclusive education</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+
+    <!--add at a glance string-->
+
+    <string name="at_a_news">Establishing education programmes in six countries (Bangladesh, Afghanistan, Pakistan, Uganda, South Sudan, Sierra Leone and the Philippines), BRAC has built the largest secular, private education system in the world, with more than 900,000 students enrolled in BRAC primary schools.
+
+The high-impact and low-cost model of BRAC’s primary schools give disadvantaged students a second chance at learning. In collaboration with BRAC University-BRAC Institute of Education Development (BU-BIED) and BRAC Health Nutrition Population Programme (HNPP), we have introduced a centre-based learning, two-year pilot project known as shishu bikash kendro (SBK) for three year-old children. This early childhood development initiative aims to strengthen child health and support, ensuring holistic development (physical and cognitive development), and enhance  learning ability.
+Complementing mainstream school systems with innovative teaching methods and materials, BRAC establishes primary schools in communities, which are not accessed by formal education systems. Through this endeavour, we bring education to millions of children, particularly those affected by violence, displacement, discrimination or extreme poverty in rural areas as well as urban slums. We have made primary school education available to children in areas that are seasonally submerged under water by introducing boat schools.
+
+As another new initiative, we have introduced schools for dropout children, targeting students who have never been enrolled in any formal school or have dropped out of school within the first three years.This has been piloted in both rural and urban areas. Enrolling in these schools instead of BRAC’s primary schools reduces repetition by following five-year courses and also saves one year of schooling. Underprivileged children are targeted at the pre-primary level with the goal of preparing them to enter mainstream primary schools. We also reach out to children from ethnic communities and those with special needs. Our hands on, rhythmic and kinaesthetic development approach, particularly in pre-primary and primary education, has promoted co-curricular activities that help in the holistic development of children.
+
+The programme provides needs-based training to teachers and school management committees in secondary schools on capacity building. It implements mentoring initiatives by involving students in extracurricular and group activities to boost attendance and reduce dropout rate in underperforming rural secondary schools. Furthermore, by introducing innovative e-learning method in secondary schools we plan to significantly improve learning environment and results in board examinations.
+
+Scholarship programmes are also available that provide financial support to talented students by paying for their college or university tuition fees, at home and abroad.
+
+We are giving increasing attention to adolescents and youth as a special group, offering them life skills, livelihood and skills development training, as well as basic   education and financial services. In BRAC’s adolescent clubs, peer-driven initiatives are taken to enhance personal growth and social skills. Our multipurpose community learning centres promote reading, especially through mobile libraries for those who cannot travel far from their houses. It also works towards creating self-employment opportunities among the rural youth.
+    </string>
+    <string name="at_a_pub_time">Friday, 15 January 2016 18:00</string>
+    <string name="read_more">Read More</string>
+    <string name="show_less">Show Less</string>
+
+    <string name="front_page">Launched in 1985, the goal of BRAC Education Programme (BEP) is to make significant
+contribution to the achievement of Education for All in Bangladesh. Today the programme’s
+school model for poor, rural children has helped equip millions with basic reading, writing,
+numeracy, and life skills they require to thrive in the future. </string>
+
+</resources>
