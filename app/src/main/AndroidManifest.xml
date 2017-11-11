@@ -23,14 +23,14 @@
         </activity>
         <activity android:name=".AtGlanceActivity" />
         <activity android:name=".BRAPrimarySchoolActivity" />
-        <activity android:name=".BRAcPreprimaryActivity" />
         <activity android:name=".ShishuNiketonActivity" />
         <activity android:name=".EducationSupportProActivity" />
         <activity android:name=".EarlyChildDev2Activity" />
         <activity android:name=".WorkSecSchoolActivity" />
         <activity android:name=".AdoleDevProActivity" />
         <activity android:name=".MultipurposeComLearningActivity" />
-        <activity android:name=".InclusiveEducationActivity"></activity>
+        <activity android:name=".InclusiveEducationActivity" />
+        <activity android:name=".BRAcPreprimaryActivity"></activity>
     </application>
 
 </manifest>
