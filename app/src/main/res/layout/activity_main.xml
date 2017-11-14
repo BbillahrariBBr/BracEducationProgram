@@ -48,8 +48,8 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             app:cardElevation="5dp"
-            app:cardUseCompatPadding="true"
-            >
+            app:cardUseCompatPadding="true">
+            <!--
             <com.borjabravo.readmoretextview.ReadMoreTextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -59,9 +59,51 @@
                 app:trimCollapsedText="@string/read_more"
                 app:trimMode="trimModeLine"
                 app:trimLines="16"
-                app:colorClickableText="@color/colorAccent"/>
+                app:colorClickableText="@color/colorAccent"/>-->
+            <android.support.constraint.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.borjabravo.readmoretextview.ReadMoreTextView
+                    android:id="@+id/readMoreTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="@string/front_page"
+                    android:textSize="16sp"
+                    app:colorClickableText="@color/colorAccent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:trimCollapsedText="@string/read_more"
+                    app:trimExpandedText="@string/read_less"
+                    app:trimLines="16"
+                    android:padding="5dp"
+                    app:trimMode="trimModeLine" />
+
+                <Button
+                    android:id="@+id/fact_sheet"
+                    android:background="@drawable/round"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:text="FACT SHEET"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/readMoreTextView" />
+
+            </android.support.constraint.ConstraintLayout>
+
+
 
         </android.support.v7.widget.CardView>
+
 
     </android.support.v4.widget.NestedScrollView>
 

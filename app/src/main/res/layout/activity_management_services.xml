@@ -31,7 +31,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:title="@string/multipurpose_community_learning_centres"
+                app:title="@string/management_services"
                 app:layout_collapseMode="pin"/>
 
         </android.support.design.widget.CollapsingToolbarLayout>
@@ -60,7 +60,7 @@
 
                 <TextView
                     android:textColor="@color/colorPrimaryText"
-                    android:text="@string/multipurpose_community_learning_centres"
+                    android:text="@string/management_services"
                     android:textStyle="bold"
                     android:layout_marginTop="12dp"
                     android:textSize="20sp"
@@ -98,10 +98,10 @@
                 <com.borjabravo.readmoretextview.ReadMoreTextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/mclc_details"
+                    android:text="@string/ms_details"
                     android:textSize="16sp"
-                    app:trimExpandedText="Show Less"
-                    app:trimCollapsedText="Read More"
+                    app:trimExpandedText="@string/read_less"
+                    app:trimCollapsedText="@string/read_more"
                     app:trimMode="trimModeLine"
                     app:trimLines="16"
                     android:padding="5dp"

@@ -11,7 +11,10 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.daimajia.slider.library.Animations.DescriptionAnimation;
@@ -29,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     NavigationView navigationView;
     ActionBarDrawerToggle toggle;
     Intent intent;
+    Button factsheet;
     SliderLayout sliderLayout;
     HashMap<String, String> Hash_file_maps;
 
@@ -38,6 +42,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setContentView(R.layout.navigation_drawer);
         setUpUIMain();
         setSupportActionBar(toolbar);
+        factsheet.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,FactSheetActivity.class));
+            }
+        });
         toggle = new ActionBarDrawerToggle(MainActivity.this,drawerLayout,
                 toolbar,R.string.open_drawer,R.string.close_drawer);
         navigationView.setNavigationItemSelectedListener(MainActivity.this);
@@ -74,6 +84,33 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toolbar = (Toolbar)findViewById(R.id.toolbar);
         drawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);
         navigationView = (NavigationView)findViewById(R.id.navigation_view);
+        factsheet = (Button)findViewById(R.id.fact_sheet);
+
+
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.toolbar_menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.action_settings) {
+            return true;
+        }
+        if (id == R.id.action_refresh) {
+            Toast.makeText(MainActivity.this, "Refresh App", Toast.LENGTH_LONG).show();
+        }
+        return super.onOptionsItemSelected(item);
 
 
     }
@@ -96,6 +133,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         switch (id){
             case R.id.ataglance:
                 intent = new Intent(MainActivity.this,AtGlanceActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.overview:
+                intent = new Intent(MainActivity.this,OverViewActivity.class);
                 startActivity(intent);
                 break;
 
@@ -141,6 +183,21 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             case R.id.inclu_edu:
                 intent = new Intent(MainActivity.this,InclusiveEducationActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.management_services:
+                intent = new Intent(MainActivity.this,ManagementServicesActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.tbg:
+                intent = new Intent(MainActivity.this,TBGActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.new_interventions:
+                intent = new Intent(MainActivity.this,NewInterventionActivity.class);
                 startActivity(intent);
                 break;
         }

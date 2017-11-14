@@ -3,36 +3,61 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
-        <item android:title="@string/at_a_glance"
-            android:id="@+id/ataglance"></item>
+        <item
+            android:title="@string/at_a_glance"
+            android:id="@+id/ataglance" />
 
-        <item android:title="@string/brac_primary_schools"
-            android:id="@+id/brac_pri_sc"></item>
+        <item
+            android:title="@string/overview"
+            android:id="@+id/overview" />
 
-        <item android:title="@string/brac_sre_srimary_schools"
-            android:id="@+id/brac_pre_pri_sc"></item>
+        <item
+            android:title="@string/brac_primary_schools"
+            android:id="@+id/brac_pri_sc" />
 
-        <item android:title="@string/shishu_niketon"
-            android:id="@+id/shishu_niketon"></item>
+        <item
+            android:title="@string/brac_sre_srimary_schools"
+            android:id="@+id/brac_pre_pri_sc" />
 
-        <item android:title="@string/education_support_programme"
-            android:id="@+id/edu_supp_pro"></item>
+        <item
+            android:title="@string/shishu_niketon"
+            android:id="@+id/shishu_niketon" />
 
-        <item android:title="@string/early_childhood_development"
-            android:id="@+id/ear_child_dev"></item>
+        <item
+            android:title="@string/education_support_programme"
+            android:id="@+id/edu_supp_pro" />
 
-        <item android:title="@string/working_with_mainstream_secondary_schools"
-            android:id="@+id/work_sec_school"></item>
+        <item
+            android:title="@string/early_childhood_development"
+            android:id="@+id/ear_child_dev" />
 
-        <item android:title="@string/adolescent_development_programme"
-            android:id="@+id/ad_dev_pro"></item>
+        <item
+            android:title="@string/working_with_mainstream_secondary_schools"
+            android:id="@+id/work_sec_school" />
 
-        <item android:title="@string/multipurpose_community_learning_centres"
-            android:id="@+id/mul_comm_learn"></item>
+        <item
+            android:title="@string/adolescent_development_programme"
+            android:id="@+id/ad_dev_pro" />
 
-        <item android:title="@string/inclusive_education"
-            android:id="@+id/inclu_edu"></item>
-        Early childhood development
+        <item
+            android:title="@string/multipurpose_community_learning_centres"
+            android:id="@+id/mul_comm_learn" />
+        <item
+            android:title="Tracking of BRAC graduates (TBG) programme"
+            android:id="@+id/tbg" />
+
+        <item
+            android:title="New interventions"
+            android:id="@+id/new_interventions" />
+        <item
+            android:title="@string/inclusive_education"
+            android:id="@+id/inclu_edu" />
+
+        <item
+            android:title="Management services"
+            android:id="@+id/management_services" />
+
+
 
     </group>
 </menu>

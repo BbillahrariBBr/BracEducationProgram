@@ -30,7 +30,12 @@
         <activity android:name=".AdoleDevProActivity" />
         <activity android:name=".MultipurposeComLearningActivity" />
         <activity android:name=".InclusiveEducationActivity" />
-        <activity android:name=".BRAcPreprimaryActivity"></activity>
+        <activity android:name=".BRAcPreprimaryActivity" />
+        <activity android:name=".FactSheetActivity" />
+        <activity android:name=".OverViewActivity" />
+        <activity android:name=".ManagementServicesActivity" />
+        <activity android:name=".TBGActivity" />
+        <activity android:name=".NewInterventionActivity"></activity>
     </application>
 
 </manifest>

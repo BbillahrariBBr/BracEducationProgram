@@ -98,12 +98,14 @@
                 <com.borjabravo.readmoretextview.ReadMoreTextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/at_a_news"
+                    android:text="@string/wmss_details"
                     android:textSize="16sp"
-                    app:trimExpandedText="@string/read_more"
-                    app:trimCollapsedText="@string/show_less"
+                    android:linksClickable="true"
+                    app:trimExpandedText="Show Less"
+                    app:trimCollapsedText="Read More"
                     app:trimMode="trimModeLine"
                     app:trimLines="16"
+                    android:padding="5dp"
                     app:colorClickableText="@color/colorAccent"/>
                 <!--
                                 <TextView

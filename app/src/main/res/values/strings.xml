@@ -3,7 +3,7 @@
     <string name="at_a_glance">At a glance</string>
     <string name="education_programme">Education Programme</string>
     <string name="brac_primary_schools">BRAC primary schools</string>
-    <string name="brac_sre_srimary_schools">BRAC pre-srimary schools</string>
+    <string name="brac_sre_srimary_schools">BRAC pre-primary schools</string>
     <string name="shishu_niketon">Shishu niketon</string>
     <string name="education_support_programme">Education support programme</string>
     <string name="early_childhood_development">Early childhood development</string>
@@ -13,6 +13,8 @@
     <string name="inclusive_education">Inclusive education</string>
     <string name="open_drawer">Open Navigation Drawer</string>
     <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="overview">Overview</string>
+    <string name="management_services">Management Services</string>
 
     <!--add at a glance string-->
 
@@ -32,10 +34,418 @@ We are giving increasing attention to adolescents and youth as a special group, 
     <string name="at_a_pub_time">Friday, 15 January 2016 18:00</string>
     <string name="read_more">Read More</string>
     <string name="show_less">Show Less</string>
+    <string name="tbg">Tracking of BRAC graduates (TBG) programme</string>
+    <string name="new_interventions">New interventions</string>
 
-    <string name="front_page">Launched in 1985, the goal of BRAC Education Programme (BEP) is to make significant
-contribution to the achievement of Education for All in Bangladesh. Today the programme’s
-school model for poor, rural children has helped equip millions with basic reading, writing,
-numeracy, and life skills they require to thrive in the future. </string>
+    <string name="front_page">BRAC’s education programme (BEP) has become the largest
+        secular and private education system in the world, reaching seven countries.
+        BRAC’s non-formal primary schools are designed to give a second chance at learning to disadvantaged
+        children left out of the formal education system due to extreme poverty, violence,
+        displacement or discrimination. We complement the mainstream school system with innovative teaching
+        methods and materials. At the secondary level, we provide need-based training and support for both
+        teachers and students. Our e-learning materials improve mainstream education, and mobile libraries
+        promote reading and access to IT facilities for the community. We prioritise adolescents and youth,
+        offering life skills and livelihood development training,
+        savings and financial services, and much more.</string>
+
+    <string name="overview_details">"
+        <p>Establishing education programmes in six countries (Bangladesh, Afghanistan, Pakistan, Uganda, South Sudan, Sierra Leone and the Philippines), BRAC has built the largest secular, private education system in the world, with more than 900,000 students enrolled in BRAC primary schools.</p>
+        <br></br><br></br>
+        <p>The high-impact and low-cost model of BRAC’s primary schools give disadvantaged students a second chance at learning. In collaboration with BRAC University-BRAC Institute of Education Development (BU-BIED) and BRAC Health Nutrition Population Programme (HNPP), we have introduced a centre-based learning, two-year pilot project known as shishu bikash kendro (SBK) for three year-old children. This early childhood development initiative aims to strengthen child health and support, ensuring holistic development (physical and cognitive development), and enhance  learning ability.
+Complementing mainstream school systems with innovative teaching methods and materials, BRAC establishes primary schools in communities, which are not accessed by formal education systems. Through this endeavour, we bring education to millions of children, particularly those affected by violence, displacement, discrimination or extreme poverty in rural areas as well as urban slums. We have made primary school education available to children in areas that are seasonally submerged under water by introducing boat schools. </p>
+        <br></br> <br></br>
+        <p>As another new initiative, we have introduced schools for dropout children, targeting students who have never been enrolled in any formal school or have dropped out of school within the first three years.This has been piloted in both rural and urban areas. Enrolling in these schools instead of BRAC’s primary schools reduces repetition by following five-year courses and also saves one year of schooling. Underprivileged children are targeted at the pre-primary level with the goal of preparing them to enter mainstream primary schools. We also reach out to children from ethnic communities and those with special needs. Our hands on, rhythmic and kinaesthetic development approach, particularly in pre-primary and primary education, has promoted co-curricular activities that help in the holistic development of children.</p>
+        <br></br> <br></br>
+        <p>The programme provides needs-based training to teachers and school management committees in secondary schools on capacity building. It implements mentoring initiatives by involving students in extracurricular and group activities to boost attendance and reduce dropout rate in underperforming rural secondary schools. Furthermore, by introducing innovative e-learning method in secondary schools we plan to significantly improve learning environment and results in board examinations.</p>
+        <br></br> <br></br>
+        <p>Scholarship programmes are also available that provide financial support to talented students by paying for their college or university tuition fees, at home and abroad</p>
+        <br></br> <br></br>
+        <p>We are giving increasing attention to adolescents and youth as a special group, offering them life skills, livelihood and skills development training, as well as basic   education and financial services. In BRAC’s adolescent clubs, peer-driven initiatives are taken to enhance personal growth and social skills. Our multipurpose community learning centres promote reading, especially through mobile libraries for those who cannot travel far from their houses. It also works towards creating self-employment opportunities among the rural youth.</p>"
+    </string>
+
+    <string name="ecd_details">
+        "<p>In the quest to ensure qualitative early childhood education for children of ages 3-5 and prop up national stipulation, BRAC Education Programme launched a two-year integrated play-based early childhood development (ECD) centre in collaboration with BRAC-Institute of Educational Development (BIED) and BRAC Health, Nutrition and Population Programme. A total of 20 ECD centres were opened in Muktagacha and Mymensing in January 2014. Having immense community response, 220 more centres were opened in 2015 in five upazilas ie, Mymensing Sadar, Gouripur, Trishal, Fulbaria, Muktagacha and Gaforgaon of Mymensing district.</p>
+        <br></br> <br></br>
+        <p>The aim of this intervention is to stimulate children’s learning capability in a playful environment, improve children’s health and nutrition and raise community awareness.</p>
+        <br></br> <br></br>
+        <b>Key features</b>
+        <br></br><br></br>
+
+        * One-room centre,  3 to 5-year-old children.<br></br>
+        * No tuition fees and flexible school timing.<br></br>
+        * Class duration 2 hours, 5 days in a week.<br></br>
+        * Play-based curriculum<br></br>
+        * Group learning and emphasis on participatory activities<br></br>
+        * Needs-based curriculum material<br></br>
+        * Well trained staffs and caregivers on ECD<br></br>
+        * Participation of parents and community<br></br>
+        * Mothers volunteering in the centre<br></br>
+        * Outdoor play space Home visit by caregivers Health check-ups"
+    </string>
+
+    <string name="bpps_details">
+        "<b>Why is this intervention necessary?</b><br></br><br></br>
+        <p>Introduced in 1997, pre-primary education is a critical strategic intervention for promoting the quality of primary schooling especially for children who are first-generation learners. Pre-primary education helps children transition from home to formal schooling. The main objective of the programme is to prepare underprivileged children to enter the mainstream primary schools.</p>
+        <br></br>
+        <br></br>
+        <p>Many a times in underprivileged families, parents do not have the education necessary to teach children foundational literacy skills, nor are they equipped to meet the demands and routines of formal schooling. BEP provides a basic academic foundation, and the crucial emotional and physical development required for success in primary schools. Besides education, children with special needs are also provided with medical support and necessary assistive devices.</p>
+        <br></br>
+        <br></br>
+        <b>Key features of BPPS</b>
+        <br></br>
+
+        * Centre-based approach with one teacher for 25-30 children<br></br>
+        * Children aged 5-6 years• Sixty per cent of the students are girls<br></br>
+        * No tuition fee<br></br>
+        * Flexible class hours<br></br>
+        * Involvement of the community in addition to 2.5 hours of schooling per day<br></br>
+        * The teacher is a local woman with 10 years of schooling experience<br></br>
+        * The schools are located on catchment of mainstream primary school<br></br>
+        * Fun and activity-based pre-school education<br></br><br></br>
+        <b>How do we ensure quality of teaching?</b><br></br>
+        <p>Preference is given to teachers who have at least 10 years experience of schooling and a senior school certificate. BRAC trains these teachers in the latest and most effective teaching methodologies in a non-formal, creative manner, encouraging effective development of children's communications, language and social skills, active hands on learning, the use of arts including free-hand drawings and other modes of class work</p>
+        <br></br><br></br>
+        <b>What's the linkage with government schools?</b>
+        <br></br>
+        <p>After completing the one-year pre-primary course, all graduates are enrolled in the nearest government or registered non-government primary schools. BRAC staff keeps a track of these children until they complete their primary education.</p>
+        <br></br><br></br>
+        <b>Quick facts:</b>
+        <br></br>
+        * 13,430 BRAC pre-primary schools<br></br><br></br>
+        * 377,954 students, of whom 59.79% are girls<br></br><br></br>
+        * 13,425 teachers, of whom all are women<br></br><br></br>
+        * 6.01 million students completed course to date, of which 61.45% are girls"
+
+
+    </string>
+
+    <string name="sn_details">
+        "<p>BRAC recently launched the shishu niketon programme, a new initiative piloting as a cost-sharing model of primary education. This programme seeks to target families whose level of income makes them ineligible for BRAC’s existing non-formal primary schools, yet who are unable to afford private schooling.</p>
+        <br></br><br></br><br></br>
+        <b>Objectives of shishu niketon</b><br></br><br></br>
+        <p>The overarching goal of shishu niketon is to contribute to broader national goal of education, ie, developing human capital and create opportunities for good quality education to the parents who are willing to pay for their children’s education.</p>
+        <br></br><br></br>
+        The specific objectives are;<br></br><br></br><br></br>
+        1. Ensuring holistic development of children and preparing them duly for secondary level studies<br></br><br></br>
+        2. Maintaining a high completion rate in due time<br></br><br></br>
+        3. Enhancing the participation of the parents in school<br></br><br></br>
+        4. Making the programme self-sustainable in every aspects<br></br><br></br><br></br>
+        <b>Current status</b>
+        <br></br><br></br>
+        * 7,390 Shishu Niketon<br></br><br></br>
+        * 209,951 students, among whom 50.24% are girls<br></br><br></br>
+        * 7,390 teachers, all of who are women"
+
+
+
+    </string>
+
+    <string name="ms_details">
+        "<b>1. Management information system (MIS)</b> <br></br> <br></br> <br></br>
+        <p>BEP has a computer-based MIS that transforms data into information. The MIS unit continuously gathers relevant information and then processes, integrates, stores and disseminates key aspects and associates of the programme. The MIS indicators cover some of the outcome, output and activity indicators, as well as include all the key components of BEP. MIS helps management in planning and understanding the current state of the programme, including its coverage and quality, and identifies deviations. Thus it promotes making appropriate decisions by the programme management and contributes in improving programme performance. Information on the various components of the programme is collected from the field level following the prescribed format. BEP’s field monitors cross checks these data in order to ensure quality. The data is then sent to the regional offices and head office after being recorded electronically and shared with the area managers and branch managers. The MIS team at the head office has developed appropriate software to check the quality of data. Both planned and actual situations are compared while analysing this data.</p>
+        <br></br> <br></br> <br></br>
+        <b>2. Monitoring unit</b> <br></br> <br></br> <br></br>
+        <p>In BEP, monitoring is one of the most important elements for improving the quality of our activities. The monitoring unit currently has 40 staff in the field and three at the head office, who are responsible for monitoring all the components of BEP, with special attention given to primary schools where demand for quality (learning outcomes) is relatively higher. Monitors usually have five to seven years of work experience in BEP and are selected from the best performing BRAC managers and quality assurance specialists. There are 14-16 branch offices with 500-600 primary schools and 300-400 pre-primary schools within the working area of a monitor. A monitor usually monitors 20-25 primary schools and 10-15 pre-primary schools (roughly 3-4 per cent of total) in a month from four to five branches. Both the branches and the sample schools are selected randomly. Monitoring is carried out on both qualitative and quantitative aspects of the programme. In the case of primary schools, qualitative indicators, such as classroom-based teaching and learning, teacher-student interactions, and learning outcome of students by subject are given priority. Of quantitative indicators, physical space within the classroom, student’s age, attendance, composition, (eg, ratio of boys to girls), quality of learning materials, and teachers’ selections are given importance.</p>
+        <br></br> <br></br> <br></br>
+        <b>3. Planning and communication unit</b>
+        <br></br> <br></br> <br></br>
+        <p>In 2002, BEP formed a unit to write effective reports, project proposals and maintain close contact with its development partners and other stakeholders involved in education sector. In 2012, this unit has been renamed as planning and communication unit. Along with the aforementioned tasks, the unit also handles external missions, ie, appraisals, midterm reviews, annul monitoring, consultants. In addition, the unit is responsible for corresponding related in-country/overseas training of staff and technical assistance for the programme. The planning and communication unit liaises with BRAC’s communications department, BRAC’s donor liaison office (DLO), BRAC International as well as BEP’s units to get information that helps to develop and prepare effective reports and work plan. </p>
+
+        <br></br> <br></br> <br></br>
+        <b>4. Logistics and administration</b>
+
+        <br></br> <br></br> <br></br>
+        <p> BEP has a separate logistics and administration unit which, in collaboration with other components of BEP and related departments of BRAC, performs administrative activities and manages logistic operations. Following the procurement guidelines of the central procurement unit, this unit develops and implements logistic support policies, procedures and methodologies within BEP and ensures timely supply of materials to every component under BEP.</p>
+
+        <br></br> <br></br> <br></br>
+        <b>5. LAMP (learning achievement, materials and pedagogy-capacity)</b>
+        <br></br> <br></br> <br></br>
+        <p>In 2015, a new unit called LAMP (learning achievement, materials and pedagogy-capacity) has been developed with the aim of nurturing and managing skills, techniques and methods that BEP gained from experience on material development, enhancement of pedagogical aspects and application of supplementary materials as well as capacity building of teachers on pedagogy. The unit is aiming to be a centre of excellence.</p>
+
+        <br></br> <br></br> <br></br>
+        <p>So far, the unit has developed supplementary materials on value education, regional issues in curriculum, climate change, science and Grade I Mathematics textbook,. To receive feedback on the developed materials, the unit has organised three national-level workshops.</p>
+        <br></br> <br></br> <br></br>
+        <p>The unit is also piloting the Japanese KUMON method to strengthen foundations in math  in 17 BRAC primary schools in Dhaka and Gazipur.</p>"
+
+    </string>
+
+    <string name="mclc_details">
+
+        "<p>Multipurpose community learning centres or gonokendros, a part of continuing education programme, were established in 1995 as community libraries. Within two years of establishment, these centre were registered as trusts and became self-financing in terms of operating expenses. Open to all, they also provide IT and other training in a range of trades (computer, electronics, livestock rearing, horticulture, fish culture, poultry, etc) in collaboration with the Department of Youth Development.</p>
+        <br></br><br></br><br></br>
+        <p><i>Gonokendros</i> contain books, magazines, daily newspapers, and are usually managed by locally-recruited librarians. The centre provides an intergenerational meeting space and offer a number of services for adults, children and students. It also preserves local historical items, operate mobile libraries for women and the elderly, and houses a children’s corner. It also organises various cultural programmes.</p>
+        <br></br><br></br><br></br>
+        <p>The most remarkable achievement of these gonokendros is that a large number of semi-literate women have become regular readers. Recently, internet services have been introduced in 250 <i>gonokendros</i> in collaboration with Grameenphone</p>
+        <br></br> <br></br> <br></br>
+        The major characteristics of gonokendros are as follows:
+        <br></br><br></br>
+        * Located at the union level in a space given by the community<br></br><br></br>
+        * Has an average of 400-500 members<br></br><br></br>
+        * Open for five to six hours per day, six days a week<br></br><br></br>
+        * Hosts educational and sociocultural activities, skill development courses and sports for the youth<br></br><br></br>
+        * Becomes self-financed within two years by forming a trust<br></br><br></br>
+        Following are the different activities of <i>gonokendro</i>:
+        <p><b>Libraries</b> Libraries are central to gonokendros. Most have a collection of 1,000 books . In addition, the libraries keep daily newspapersand magazines. They remain open for five to six hours a day for six days a week. People become members by paying a nominal amount for a year. On an average 60 people use <i>gonokendros</i> every day.</p>
+        <br></br> <br></br>
+        <p><b>Reader’s forum</b> To encourage a habit of reading and to increase the number of books issued, a good number of gonokendros have readers’ forum. Participants at such forums are given an extra card to borrow an extra book for a week. They also participate in a fortnightly session where they discuss and share ideas on the books they read in the prior weeks<br></br><br></br>
+        A forum is usually for two to three months. Participants are evaluated on the basis of these sessions. A forum usually lasts for two to three months. At the end of each forum, participants who do well are rewarded.<br></br>
+        Readers’ forum increases the depth of knowledge and encourages the members to read books.</p>
+
+        <br></br> <br> </br> <br></br>
+        <p><b>Mobile library</b> An innovative concept of<i> gonokendro</i> is its mobile library, which targets adults, especially women, who are unable to take direct advantage of library services of the <i>gonokendros</i> for a number of reasons (distance, lack of mobility or time, etc). Women and elderly people of the community, qualified but unemployed girls, out-of-school children or people with disabilities are the members of mobile libraries. The mobile library is managed by a librarian or a part-time assistant librarian (usually a woman) who carries about 80-100 books (in a trunk) to the doorsteps of rural households by a rickshaw or a van once or twice a week.</p>
+        <br></br> <br></br> <br></br>
+        <p><b>IT in <i>gonokendros</i></b> To connect remote communities with the world outside, <i>gonokendros</i> are equipped with internet connection, on a pilot basis. People of these communities enjoy better access to information. Students and teachers are entitled to free internet service in these <i>gonokendros</i>, but other users have to pay BDT 10 per hour.</p>
+        <br></br> <br></br> <br></br>
+        <p><b>Multimedia presentations</b> <i>Gonokendros</i> arrange multimedia presentations for rural people on various social issues. Arranged in public places, these events draw nearly 80 to 200 people. The advantage of multimedia presentations is that illiterate people can participate in it too.</p>
+        <br></br> <br></br> <br></br>
+        <p><b>Television</b> In <b>2011</b>, televisions were delivered in 500 <i>gonokendros</i>. This service has increased the hours these <i>gonokendros</i> stay open. It attracts a new group of user (mostly people who cannot read or write). For this extra time, the committee members take responsibility to run the centres. <i>Gonokendros</i> have become an information hub for the rural, disadvantaged people, especially girls and women.</p>
+        <br></br> <br></br> <br></br>
+        <p><b>Skill development training</b> To improve the socioeconomic conditions of rural communities, <i>gonokendros</i> arrange skill development training for the youth in collaboration with the Directorate of Youth under the Ministry of Youth and Sports.
+The training centres of the directorate offer both long and short courses on different trades, for example electrical works and electronics, poultry rearing, livestock, agricultural nurseries, fisheries, tailoring, and modern office management.
+The rationale behind engaging the youth in such training is to involve them in income-earning activities and create employment.
+</p>
+        <br></br> <br></br> <br></br>
+        <p> <b>Sociocultural activities</b> In rural communities, people lack scope and space to spend leisure time or to socialise; they also do not have access to entertaining events. <i>Gonokendros</i>, thus organise different kinds of sociocultural activities and ensure the participation of community members.
+The activities include drawing, essay writing and recitation competitions, preparing wall magazines, publishing annual magazines and calendars, performing skits and drama, celebrating patriotic holidays, international days, organising rallies and discussion sessions, arranging different fairs, exhibitions (book exhibition, IT fair) and eye camps, blood donations and medical camp for general diagnosis. The youth committee of the <i>gonokendros</i> usually assists in arranging these events. Such events also reinforce local cultural heritage and communal identity.
+</p>
+
+        <br></br> <br></br> <br></br>
+        <p><b>Youth committee</b> To support the trustee board, every <i>gonokendro</i> has a youth committee which is formed with the youth of the community with 30-50 per cent women. They help to mobilise fund for the <i>gonokendro</i> as well as organising different sociocultural activities. This youth committee also collects seasonal crop from the community to increase the fund of a <i>gonokendro</i>. The participation of young girls and women in this process creates awareness among community members regarding the roles of girls and women as integral part of community development.</p>
+        <br></br> <br></br> <br></br>
+        <p><b>Children’s corners</b> Children’s corners have 100 to 150 books; children use this space to read, borrow books and play games.
+There is an opportunity for children to engage in cultural activities and art competitions. The librarian attends to the children and holds  storytelling sessions once a week.
+        </p>
+        <br></br> <br></br> <br></br>
+        <p><b>Micro-museum</b> <i>Gonokendros</i> have a separate shelf dedicated to collecting local and historical items for display. This inclusion, called micro-museum, is in the pilot phase and contains mementos of local martyrs who died in the liberation war, old copper utensils which are not used anymore , old currencies and miniatures of different kinds of everyday items such as the dheki, palki and plough. Such museums give visitors an idea of the local heritage.</p>
+        <br></br> <br></br> <b></b>
+        <p><b>Kirtiman</b> Some <i>gonokendros</i> now keep digital festoons illustrating life and work of local and famous literary personalities. These festoons are displayed on occasions of their birth and death anniversary, – usually two months before the date. On the date of the anniversary, cultural events, discussion sessions and competitions are held focusing on their work.</p>
+        <br></br> <br></br> <b></b>
+        <p><b>BASE</b> BRAC’s activity for social empowerment (BASE) is a recent inclusion in the <i>gonokendros</i>. To encourage more people to read books, 148 centres have been established so far in a spare room provided by the communities as pilot.
+Local youth conduct activities which include distribution and recollection of books , awareness raising, and record keeping, etc. Each centre starts with 100 books and are replaced by 100 new books at the end of the month.
+</p>
+        <br></br> <br></br> <br></br>
+        <p><b>Local resource person (LRP)</b> Participation and ownership feeling of community people is necessary for<i> gonokendros</i> to sustain. . From 2011, <i>gonokendros</i> started to recruit LRP from the community - people with interest and commitment to bring local development. They are trained to deliver particular services and conduct some activities in their communities. LRPs are responsible for arranging orientations for the committee members, organising cultural programmes and competitions for children on various occasions, establishing new gonokendro, mobilising fund for the gonokendro, increasing number of readers and members, increasing community participation in MCLC activities, etc. Being local, the LRPs can better understand the community’s characteristics and deliver the services accordingly. They are not BRAC’s permanent staff; they are working with BRAC as part-time staff.</p>
+
+        <br></br> <br></br> <br></br>
+        <b>Quick facts</b>
+        <br></br><br></br>
+        2,910 libraries (gonokendros)<br></br>
+        1.27 million members of gonokenros <br></br>
+        61,143 members of 880 mobile libraries<br></br>
+        2,910 librarians <br></br>
+        1,365 gonokendros with IT facilities<br></br>
+        2,756child corners<br></br>
+        103,140youth members receiving training, of whom 57.95 per cent are girls<br></br><br></br>
+        356 sub-districts in 60 districts have been reached"
+
+    </string>
+    <string name="inclusiveEdu_details">
+        "<p>Inclusive education brings all students together in one classroom and community, regardless of their strengths or weaknesses in any area, and seeks to maximize the potential of all students. BRAC Education Programme (BEP) has been implementing a programme to provide educational opportunities to ethnic minority children who had a long history of exclusion from conventional education system through its education for ethnic children (EEC) unit. children with special needs (CSN) unit enhances access to inclusive pre-primary and primary education for children with special needs who do not get an opportunity to enrol in any other schools, particularly those from very poor families and those living in remote areasa.
+            <br></br>
+    a) <a href="http://www.brac.net/education-programme/item/774-children-with-special-needs-csn">Children with Special Needs</a><br></br> <br></br>
+    b) <a href="http://www.brac.net/education-programme/item/775-education-for-ethnic-children-eec">Education for Ethnic Children (EEC)</a></p>"
+    </string>
+    <string name="tbg_details">"
+        <p>BRAC started its education programme in 1985, targeting children from poor households. So far, 9.51 million children including Person with Disability (PWD) and ethnic children have finished their primary level education from BRAC schools and have been have been conceded in secondary schools.</p><br></br><br></br>
+
+<p>Studies directed by BRAC presume that BRAC graduates who are conceded in secondary schools frequently are unable to finish their secondary level because of numerous discriminating circumstances. In Bangladesh secondary education acts as an entrance to higher education and the work force and thus it is vital to complete secondary level of education. From this acknowledgment, BEP began tracking of BRAC Graduates Programme (TBG) at secondary schools in 2011 to guarantee their enrolment at the secondary level, advance consistent participation, decrease dropout rate and so forth with the goal that they support at the secondary level and effectively finish the course. Currently the TBG programme is tracking 500,000 BRAC graduates in secondary schools.</p><br></br><br></br><br></br><br></br>
+
+<b>Objectives of TBG:</b> The specific objectives of the programme are to: <br></br><br></br>
+•	Enrol BRAC graduates in secondary schools and ensure completion Make parents aware about importance of secondary education<br></br><br></br>
+•	Increase community involvement in secondary education through ensuring active participation of community (para committee)<br></br><br></br>
+•	Reduce child/early marriage<br></br><br></br>
+<b>Operational approach of TBG</b><br></br><br></br>
+<p>BRAC supervisory staff ensures children enrolment at the secondary school, promote regular attendance, reduce dropout rate so that they successfully complete the five years secondary schooling. Staff from the branch office visits their respective high schools where graduates are enrolled. They have to carry out a visit once every month. During the high schools visit, the staffs focus on the student’s attendance, if the students bring their learning materials regularly, cleanliness and hygiene in and around the school and so on. Further information regarding all the students is gathered from those students who are present in school on the day of visit. Students who are irregular in school, staffs get in touch with those students and encourage them to attend school on a regular basis. All the schools in a particular area are divided among the staffs in those branch offices.  Alongside school inspection, staffs are anticipated to sit with the head master and the respective class teachers to check on the student’s condition through discussion.</p><br></br><br></br>
+
+<p>To maintain regular correspondence with the BRAC graduates, the TBG programme has formed para committees and organises regular meetings with the graduates, their parents or guardians. Special meetings are conducted with Junior School Certificate (JSC) and Secondary School Certificate (SSC) candidates to increase their confidence so that they can participate in the examinations. </p><br></br><br></br>
+
+<p>Furthermore, underprivileged and meritorious BRAC graduates are also provided with financial support. BRAC also maintains contact with secondary school authority and other organisations to manage scholarship and full/partial waiver for BRAC graduates.</p><br></br><br></br>
+<br></br><br></br>
+<b>Case Story</b><br></br><br></br>
+<a href="http://www.brac.net/education-programme/item/954-zahirul-islam-studying-mbbs-in-sir-salimullah-medical-college">Zahirul Islam - studying MBBS in Sir Salimullah Medical College</a>
+<br></br><br></br><br></br>
+<a href="http://www.brac.net/education-programme/item/955-rozina-studying-bba-at-a-top-ranked-university-in-rajasthan">Rozina - studying BBA at a top ranked University in Rajasthan</a>"
+
+
+
+    </string>
+
+    <string name="wmss_details">
+        "BEP’s work at the secondary level started in 2001 to improve the school management system and quality of teaching-learning process in the non-government secondary schools and to facilitate students in developing their leadership skills so that they can take charge for their own development. For this purpose, underperforming schools, especially from rural areas are selected.
+Through this initiative, BEP is supplementing the government‘s effort in improving the quality of education in secondary schools. BRAC initiated secondary teaching training services in 2001, in collaboration with the government to enhance the capacity of the schools and the teachers. BRAC provides training to school management committees, head teachers/assistant head teachers and teaching staff.
+BRAC implements the following four activities to support teachers and students in the formal schooling system:<br></br><br></br>
+a) <a href="http://www.brac.net/education-programme/item/777-training-and-workshops-programme">Training and workshops programme</a><br></br><br></br>
+b) <a href="http://www.brac.net/education-programme/item/778-computer-aided-learning-cal">Computer-aided learning (CAL) programme</a><br></br><br></br>
+c) <a href="http://www.brac.net/education-programme/item/779-mentoring"> Mentoring</a><br></br><br></br>
+d) <a href="http://www.brac.net/education-programme/item/780-chhatrabandhu">Chhatrabandhu</a><br></br><br></br>
+e) <a href="http://www.brac.net/education-programme/item/781-medhabikash-udyog-the-scheme-to-promote-talent">Medhabikash</a>"
+
+    </string>
+
+    <string name="adp_details">"ADP started in 1993, as a sub-set of BRAC’s school for older children. In order to retain the literacy rate and life skills that many girls lose after primary schooling, BEP opened adolescent clubs giving girls the chance to socialise, play indoor games, sing, dance and exchange views and experiences in safe and supportive spaces. It works with Ministry of Women and Children Affairs (MOWCA) and the Department of Youth Development under the Ministry of Youth and Sports. Moreover, MOWCA signed a MoU with BRAC to replicate the ADP model in seven districts of seven divisions where ADP is providing its services.
+
+Activities of the adolescent development programme
+<b>Adolescent clubs (kishori club)</b> are safe centres where adolescents girls can read, socialise, play games, take part in cultural activities and have open discussions on personal and social issues with their peers. Each club comprises of 25-35 adolescent members in the age group of 10 to 19 years. One adolescent leader is responsible for the operation of a club. At present there are around 9,000 adolescent clubs all over Bangladesh. Activities include book exchange, reading, playing indoor and outdoor games, performing cultural programmes and observing different international and national days.
+
+<b>Adolescent peer organised network (APON/Life skill-based education)</b> offers adolescents education on life skills facilitated by their peers on different social and health-related issues, such as reproductive health, sexual abuse, children’s rights, gender, HIV/AIDS, sexually transmitted infections (STIs), sexual harassment, child trafficking, substance abuse, violence, family planning, child marriage, dowry, and acid attacks. The purpose is to develop adolescent life skills and raise awareness on important but taboo issues. These courses are offered in adolescent clubs, secondary schools, madrasas (religious schools) and work places. To work more exclusively on life skills, especially on sexual and reproductive health, ADP partnered with the sexual and reproductive health rights (SRHR) project. SRHR project is a three-year (July 2013-June 2016) campaign-based programme, supported by Oxfam and implemented by ADP and BRAC’s gender justice and diversity programme. The project has been implemented in 65 non-government secondary schools of four districts (Khulna, Jessore, Sylhet and Rangpur) of Bangladesh. The programme strategy is based on a five-sided advocacy approach – political lobby, mobile phones, mass media, peer education and edutainment. The project aims to empoweradolescents through adequate skills and information on sexual and reproductive health and rights so that they can make free and informed decisions in an enabling and safe environment. SRHR targets both parents and adolescents, ensuring timely access to the right SRHR information and developing corresponding life skills, and gradually break the stigma that is responsible for trauma and early deaths among mothers and children. ADP also provides counselling facilities for adolescents especially girls, through trained counsellors to promote emotional and physical well-being.
+
+<b>Livelihood training courses</b> are offered to girls to empower them financially. ADP provides girls with training on managing beauty salons, photography and bakery. In collaboration with BITAC (B ADP participants also have the opportunity to be trained on various trades (mobile, television or refrigerator servicing, plastic processing, light machineries, autocad, carpentry). In addition, ADP also collaborated with the Ministry of Youth and Sport and other local organisations, from where the adolescents receive training on journalism, poultry, livestock, tailoring and embroidery.
+
+<b>Communication, awareness and advocacy</b> encourages interaction and dialogue among adolescents, their parents and community leaders. Different types of forums with mothers, parents and community heads create the foundation for a supportive communication network. This formalised communication network not only helps ensure the voices of adolescents to be heard but also provides transparency in community’s attitudes supporting adolescent development.
+ADP communications, awareness and advocacy are responsible for the following initiatives:
+<b>STAGE (stimulating theatre for adolescent girl empowerment)</b> plays a strong role in disseminating and initiating dialogue among community audiences. ADP established the STAGE group (originally known as the APON interactive theatre group), in 2005, across the country with its adolescent members. Each group performs theatre shows on different social issues and health issues, such as HIV/AIDS, dowry, child marriage, birth , child trafficking, and abuse all to create awareness among community members. This initiative has enabled ADP to reach a wider community in an interactive manner. At present, ADP has 190 STAGE groups with 1,900 active members all over Bangladesh.
+<b>Adolescent fair</b> has also been introduced in 2008, as a part of ADP’s different awareness activities. This fair creates an important space solely for adolescents. This occasion helps bring their potential in the frontfront.  Handicrafts made by adolescent club members are sold at the fair. Cultural programmes, essay writing and painting competitions, sporting events, theatre and rallies are organised as part of this event. Through these fairs, ADP tries to involve people from every sphere of the community to generate interest and awareness on the lives of adolescents.
+<b>Cultural competitions</b> are an initiative to educate communities about the importance of cultural activities for the cognitive development of adolescents. This activity brings out their talent through cultural competitions and provides the required training to increase their capacity in cultural performances. This competition was started by the adolescent clubs followed by cluster adolescent clubs, and then subsequently on the sub-district and district levels. The final competition with top contestants takes place on the national level andbroadcasted on satellite TV channels. This initiative received positive response from communities and has a significant impact on adolescents’ cultural development.
+
+<a href="https://www.youtube.com/watch?v=sYUFn45Wr1E&amp;feature=youtu.be">Meghe Dhaka Tara Grand Finale 2011</a>
+<a href="https://www.youtube.com/watch?v=qLKyK9BVfn8&amp;feature=youtu.be">Meghe Dhaka Tara Grand Finale 2013</a>
+
+<b>Sports for development</b> is a new initiative which includes two main activities - outdoor sports and swimming. The outdoor sports initiative involvies adolescent girls and aims to increase participation in outdoor sports. ADP provides formal training by national coaches to form football, cricket and volleyball teams and organises regular practice sessions for girls. This initiative received a positive response from the community and the national sports federation. Currently, there are 35 football teams, 40 cricket teams and 15 volleyball teams.
+
+<b>Safe swimming</b> is another such initiative which aims to reduce death by drowning. The programme engages adolescents as swimming instructors. ADP started this initiative in July 2009 in collaboration with CIPRB (<a href="http://www.ciprb.org/">Centre for Injury Prevention and Research, Bangladesh</a>) and the Bangladesh Swimming Federation. In this initiative, technical support is given by CIPRB and the Bangladesh Swimming Federation. Older adolescents (above the age of 18) from the ADP programme are selected as community swimming instructors and trained by Bangladesh Swimming Federation to provide swimming lessons to children from their own communities from the age of four to 10 years.
+
+
+<b>Goal project</b> is another innovative project under sports for development activities. It is a partnership project between ADP and Women Win (a Nederland-based organisation that promotes life skills through sports). It is an initiative first of its kind in Bangladesh where adolescent girls are developed as coaches, who then train other girls in various sports. The coach also teaches life skills lessons to girls following four main ideas: be yourself, be healthy, be empowered, be money savvy. In these lessons, girls learn life skills such as financial education, self-confidence, and many more. The objective of the project is to empower girls so that they can take decisions on important choices such as education, employment and marriage. The goal project also promotes a healthy community outlook towards adolescent girls and their roles in society. In addition, sports build different life skills such as teamwork, leadership, stress management, communication, negotiation, decision making, creativity and critical thinking. Girls learn the art of self-defence through karate . They actively participate in sports such as football, cricket and netball. The project is implemented in four districts (Bagura, Sylhet, Narayanganj and Chittagong) of Bangladesh with 52 adolescent girl coaches of 163 adolescent clubs, in 42 secondary schools – reaching a total of 5,700 adolescent girls.
+Watch a quick video of BRAC’s karate girls: <a href="https://www.youtube.com/watch?v=ehOf_NKsNCo">https://www.youtube.com/watch?v=ehOf_NKsNCo</a>
+
+<b>Tutorial initiative for adolescents (TIA)</b> is for secondary-level students who need assistance in subjects such as English, mathematics and science. The majority of adolescent members of ADP come from poor families, and lack the ability to bear the expenses of tutorial support outside their school. Most are first-generation learners and so cannot obtain academic support from their families. In addition to this, there are some academic standard requirements set by the government in order to get a stipend. As they are unable to maintain that standard, many adolescents drop out from school. Eventually, many of the girls’ parents end up arranging marriages of their girls to reduce their financial burden. To address this issue, ADP started TIA to support girls in continuing their education. ADP trained a group of tutors who provides tutorial support for a minimum charge or on a voluntary basis to girls. The tutors receive training and refresher courses on how to deliver lessons on secondary-level science, mathematics and English.
+
+<b>New initiatives</b>
+<b>English and ICT for adolescents (EITA)</b>
+In 2012, ADP and The British Council partnered to reach out to marginalised young girls and bring them to the forefront through the EITA project. The project employed a unique method of using peer groups and digital devices (netbooks) to teach ICT skills and basic English instead of the traditional classroom-based methods. After a six-day training, girls are selected as peer leaders to facilitate sessions to other girls. The EITA project has three mains objectives -:
+1.	Create access to ICT and English in an easy learning environment for adolescents (particularly girls)
+2.	Build capacity of adolescents (particularly girls) in English and ICT skills to  open up more opportunities
+3.	Generate interest in learning English and ICT skills for adolescents (particularly girls) by involving parents and members of community into different project activities
+In 2013, EITA project earned its’ true recognition by achieving Manthan Award 2013 on e-women and empowerment category. Manthan Award is an initiative first of its kind initiative to recognise the best use of ICT and digital tools to create holistic and comprehensive impact on people.
+Watch a quick view of the project here: <a href="http://youtu.be/Zlczzqob_pw">http://youtu.be/Zlczzqob_pw</a>
+For more details on Manthan Award, visit: <a href="http://www.manthanaward.org">http://www.manthanaward.org</a>
+
+<b>English through mobile phone:</b>
+English through mobile phones is another new initiativeADP took to increase girls’ access to learning English using mobile phones. It also employment opportunities. The programme targets adolescent girls to:
+•	Increase access to educational and employment opportunities in Bangladesh
+•	Enrol girls into the GSMA Foundation’s (a UK-based foundation) (Groupe Speciale Mobile Association), mWomen project (a project of GSMA works for women empowerment through mobile phone) ‘English through mobile phones’ programme to give them functional English learning content for future employment in the ICT Industry
+•	Develop alternate channels of distribution through BRAC’s peer leaders to sell easy load, scratch and SIM cards to empower them with a source of income
+
+The project is a joint collaboration of BRAC, The British Council and Robi Axiatia Limited. The programme is piloting activities through 600 adolescents clubs in four districts (Dhaka, Manikganj, Tangail and Chittagong) of Bangladesh.   A total of 600 trained peer leaders from 600 clubs are providing English course through mobile and other mobile operation systems to peers of the clubs.
+
+<b>Adolescent savings through mobile banking project</b>
+This project is a joint collaboration of BRAC’s adolescent development programme (ADP), social innovation lab (SIL) and microfinance programme. Objectives of the project are:
+•	To enrol adolescents, especially girls in formal savings through mobile banking to utilise mobile money responsibly and in ways that advance their lives
+•	Create savings habit among   adolescents, particularly girls so that they can be in better control over their lives
+
+This initiative is running in four districts (Sylhet, Manikgonj, Tangail and Narshingdi) of Bangladesh where 728 trained adolescent leaders are providing assistance to more than 22,000 adolescents with handling mobile money transactions. Adolescent members can do two types of savings: general savings (weekly) and term deposit (DPS), (monthly) in their branch wallet.
+
+<b>Dabi kishori project (DKP)</b><br></br>
+This project is a joint collaboration of two existing programmes; BRAC’s adolescent development programme and microfinance. It aims to enable them to lead their lives with independence and dignity. It is a youth-focused financial service based around ADP clubs. It follows a graduation model (young borrowers graduating to the mainstream dabi model of BRAC’s microfinance). It builds on the work of the existing interventions by learning from their past experiences and also incorporating new ideas based on current experience, in order to establish a model that will work towards achieving higher and more sustainable outcomes for the adolescent girls of Bangladesh.
+DKP targets girls aged between 11 years to 21 years. It has 375 clubs, currently reaching over 14,000 girls. It operates in 21 branches across six regions (Rajshahi, Mymensingh, Pabna, Comilla, Savar, and Magura) of Bangladesh.
+
+"</string>
+
+    <string name="bps_details">"<b>A second chance at education </b>
+Over the past 29 years, the number of BPS has grown exponentially. We started working in 1985, opening 22 one-room schools and providing three years of schooling up to class 3, which was later extended to class 5. The main objective of non-formal primary schools is to develop a school model for the underprivileged and primary school dropout children, especially girls, to complete the five-year primary school syllabus in four years.
+
+BRAC also works with other development organisations to expand education opportunities for disadvantaged children by partnering with them and providing them with technical and financial support to implement BRAC’s non-formal primary education model with changes as needed. These collaboration activities are called education support programmes.
+
+<b>Key features</b>
+•	The one-teacher school is operated by the same teacher for the same cohort of children for a period of four years and delivers lessons in all subjects
+•	The school hours are flexible and fixed according to needs
+•	Children do not pay any fees and there are no long holidays
+•	Little or no homework as most of their parents are not capable of assisting them
+•	Children with special needs receive corrective surgeries along with devices like wheelchairs, hearing aids, glasses and ramps
+•	Children belonging to ethnic communities receive class lectures and course materials in their own languages up to class 2 so that they can overcome language barriers and cultural gaps
+•	BRAC develops textbooks and other materials for up to class 3 and government textbooks are used in classes 4 and 5
+•	Students are taught about social values and their rights and responsibilities coupled with basic financial education to empower them
+•	BRAC primary school graduates are being tracked by BRAC for further study
+<b>Mechanism to ensure quality of teaching</b>
+A typical BRAC teacher is a woman from the community in which the school is, with 10 years of schooling experience. Teachers undergo an initial 12-day training course in order to repeat basic information on teaching and learning and to enhance their teaching abilities. They subsequently participate in monthly, subject-based refresher courses and yearly orientation prior to advancing to the next class. In collaboration with BRAC University’s Centre for Language (CfL), BRAC provides a two-month long (21 days each) teacher training programme in English to the teachers.
+
+<b>What is the linkage with the government education system? </b>
+Bangladesh government has allowed BPS students to appear for Primary Education Terminal Examination which is a fundamental board examination that takes place at the end of class 5.
+
+The effectiveness of this programme was evident when the graduates of the non-formal schools were well ahead of the country average when it came to passing grade for the primary school examination - 97 per cent success rate in 2009, and 99.54 per cent in 2010.
+
+<b>How do we track graduates at secondary schools? </b>
+BRAC experienced that its graduates admitted in secondary schools often cannot complete their education due to many critical circumstances. We started the ‘tracking of BRAC graduates at secondary schools’ programme to ensure their enrolment at the secondary level, promote regular attendance, reduce dropout rate so that they successfully complete the course.
+
+BRAC is also regularly in touch with secondary school authorities and other organisations to manage scholarships and full/half free education for BPS graduates.
+
+<b>Projects:</b>
+a.    <a href="http://brac.net/education-programme/item/762-boat-school">Shikkha Tari: Boat School</a>
+b.    <a href="http://brac.net/education-programme/item/763-school-for-dropped-out-children">School for dropped out children</a>
+c.    <a href="http://brac.net/education-programme/item/767-performing-and-fine-arts-pfa">Performing and fine arts</a>
+d.    <a href="http://brac.net/education-programme/item/765-total-learning-experience-tle">Total learning experience (TLE) </a>
+e.    <a href="http://brac.net/education-programme/item/764-school-for-street-children">School for street children</a>
+f.     <a href="http://brac.net/education-programme/item/766-social-and-emotional-learning-sel">Social and emotional learning (SEL) </a>
+g.   <a href="http://www.brac.net/education-programme/item/919-mobile-library-for-brac-primary-schools"> Aflatoun</a>
+h.    <a href="">Mobile library for BRAC Primary Schools</a>
+i.     <a href="https://brac.net/education-programme/item/920-interactive-digital-content-in-primary-education">Interactive digital content in primary education</a>
+j.     <a href="https://www.brac.net/education-programme/item/921-kumon-mathematics-at-brac-schools">Kumon mathematics at BRAC schools</a>
+
+<b>Quick facts: </b>
+14,153 primary schools
+389,910 students, of whom 62.17% are girls
+5.3 million students completed courses to date, of which 60.43% are girls
+5.55 million students transferred to formal schools to date, of which 60.12% are girls
+14,153 teachers
+
+<b>Read Stories: </b>
+<a href="http://blog.brac.net/2011/10/innovative-steps-towards-primary.html">Innovative Steps Towards Primary Education in Haor Area</a>
+<a href="http://www.brac.net/node/744">Akhi studies hard to be a teacher. </a>
+<a href="http://www.brac.net/node/601">Alam, a Non-formal Primary School Student, Now Runs His Own. </a>
+
+<b>Related Videos:</b>
+<a href="http://www.brac.net/media-room#lN-1IW1_Fpo">Mitali Dango: BRAC School Teacher</a>
+<a href="http://www.brac.net/404?q=/content/bangladesh-education-primary-schools">BRAC Primary School Students Singing. </a>"
+    </string>
+
+    <string name="new_interventions_details">"<b>School nutrition project</b>
+BEP started the school nutrition project in April 2012, in 13 government and 67 non-government primary schools. The goal of the project is to reduce the dropout rate in primary schools, mitigate short-term hunger and eliminate child malnutrition by involving local members of the community, mothers’ clubs and local NGOs, without interrupting the daily school routine.
+<b>Objectives</b>
+•	Provide nutritious food to children, between the ages of 5-11, in the primary schools of Bangladesh
+•	Demonstrate a technical and operational model by conducting a school nutrition pilot programme in Bangladesh
+•	Reduce the dropout rate and increase students’ enrolment in primary schools
+•	Enhance access to quality education and improve the educational standard for students
+
+<b>School meal project</b>
+A pilot project named school meal was from January 2014, with the support of the World Food Programme (WFP). It operates in the areas of Jamalpur district which are prone to river erosion, covering 19 government primary schools, seven BRAC schools and five madrasas (religious schools).
+Project objectives
+•	To improve school enrolment and attendance
+•	Reduce short-term hunger to improve students’ attention in the classroom
+•	Increase the number of women cultivating vegetables in the village
+•	Engage rural women in income-generating activities
+The programme follows school-based kitchen model by providing freshly-cooked meals counting 735 kilocalorie five days a week. WFP provides fortified rice, oil, salt, local lintels and biscuits. 5,000 students receive nutritious khichuri each day during their lunch hour. Locally-grown fruits are also given depending on the availability. The rice is fortified with six essential vitamins and minerals, helping children to get the nutrients for their development and better learning.
+Women from the community are selected for every kitchen as ‘kitchen shebikas’ and cooks. They receive training on school feeding strategy, food production and distribution, hygiene maintenance and food quality, etc. A committee consisting of five members are responsible for supervising the kitchen. A mothers’ club consisting of 12 mothers of children attending the schoolare responsible for distributing food within 30 minutes after the food has been prepared. The clubs are formed to create a sense of ownership for mothers.
+<b>PACE-MEJNIN project</b>
+Over the last decade, Bangladesh has made a tremendous progress in achieving gender parity in education including 100 per cent enrolment in primary education. BRAC’s contributions in this national achievement have been highly recognised by national and international stakeholders. Still, the quality of education and drop-out rate, particularly among girlsremain a matter of great concern.
+
+BRAC’s programme PACE (post primary basic and continuing education) has been engaged in improving the quality of education with the broader objective of supplementing the government‘s effort to meet the target for secondary school completion with improved quality. Since 2001, PACE has evolved as a successful model that meets the needs of students in secondary schools. The approach involves and engages teachers, school management committees, parents and community people to support students to have a quality and continuous education.
+
+Currently, PACE extended support to and works closely with students in 4,000 secondary schools.
+
+
+As a model of intervention, BRAC made a strategic decision to run a pilot integrating the interventions of PACE and MEJNIN (meyeder jonnyo nirapod nagorikotto – safe citizenship for girls) programmes.
+In PACE, the mentoring programme for schools, 25-30 students from classes 6 to 9 are selected as mentors following a selection criteria. Mentors provide social and academic assistance to fellow-students, ensure higher attendance in classes regularly, create enabling environment in classroom, participate and encourage members to be active in classroom activities, organise sports and inter-class debate competitions (at least once a year), publish wall magazines with creative writing from peers (at least two issues a year), help keep the school clean, participate in gardening among other roles. These existing mentor groups of PACE secondary schools form the student watch group (SWG).
+
+Gonokendro or multipurpose community learning centres (MCLC) is an important hub at the community level under PACE which are established mostly in non government, secondary schools. People from the local communities assemble in these centres. A youth group is an active part of gonokendros, involved in social works within their communities. These existing platforms of PACE will act as community watch group in this process of integration. At the same time, community watch groups are formed selecting people who have wide acceptance in the community, a strong understanding of local culture, and show courage and commitment to work on the elimination of sexual harassment.
+
+Objective of integrating the projects are:
+•	To contribute to the reduction of child marriage and girls’ drop-out rate from schools
+•	To create an enabling environment to protest and resist sexual harassment and violence against girls
+•	To promote self-esteem, leadership and creativity among secondary school students
+•	To increase staff capacity to deal with sexual harassment
+
+The project has been implemented for the year of 2015 in 34 schools of two upazilas in Sylhet district.
+To raise awareness on sexual harassment among students, teachers and communities in general, different types of activities have been taken. The main activities of this project include student workshop, teachers meeting, community watch group meeting, mentor watch group, community watch group among others. To build staff capacity to deal with sexual harassment training is provided for for LRP (local resource person) and staff, such as TOT (training of trainers) on gender , counselling and leadership. To promote self-esteem, leadership and creativity among secondary school students, this project also organises leadership training for mentors.
+"</string>
+    <string name="esp_details">"In 1991, BRAC launched ESP to enhance the access to quality primary education opportunities for underprivileged children (of 9-12 years) in the most remote areas including char (riverine islands), haor (wetlands), tea garden areas and the Chittagong Hill Tracts. ESP builds partnerships with local NGOs and provides them with technical and financial support to replicate BRAC’s primary school (BPS) model. Thus, ESP supplements the government in achieving the goals of Education for All (EFA) in line with millennium development goals (MDGs) of education in Bangladesh.
+ESP considers the formal structure, location, reputation, potential, honesty and commitment of the potential NGOs before engaging with them to operate the programme. ESP also provides consultancy, supervision, monitoring and audit services to its partner NGOs.
+The programme covers five-year primary curriculum in four years like BPS. It has introduced multi-strategy language teaching (MsLT) in all its schools which is a method providing student the opportunity to exercise free-hand writing and boost-up their creativity. ESP has also introduced education programmes for ethnic children in CHT and tea gardens by replicating the education for ethnic children model.
+Wherever feasible, ESP enrols the children with special needs (CSN) and modifies the infrastructure of the schools accordingly and provides assistive devices and treatments by the CSN unit.
+Capacity development of partner NGOs
+The heads of partner NGOs are an integral part of the programme; there is no doubt that their active participation and involvement in activities results in successes of the programme. In the light of this comprehension, ESP builds their capacity development focusing on knowledge and skills on monitoring, auditing, non-formal primary education management, pedagogy of primary education, ownership so that they can implement the BPS model effectively. In addition, ESP provides diverse training to programme organisers/officers and the teachers to build their capacity for a successful and smooth operation of the schools.
+<b>Achievements</b>
+Initially BRAC started ESP with 26 development organisations and 129 schools. To date, ESP has worked with 1,282 partner NGOs. A total of 0.75 million children have graduated from these schools, of which 98.75 per cent children transferred to mainstream schools.
+In 2009, ESP first introduced five-year curriculum in four years instead of three years course (class 1-3). The students of the 2009 batch participated in the Primary Education Completion Examination (PECE) of class 5 in 2012 witha pass rate of 99.94 per cent.
+"</string>
 
 </resources>
