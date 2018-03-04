@@ -21,21 +21,112 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AtGlanceActivity" />
-        <activity android:name=".BRAPrimarySchoolActivity" />
-        <activity android:name=".ShishuNiketonActivity" />
-        <activity android:name=".EducationSupportProActivity" />
-        <activity android:name=".EarlyChildDev2Activity" />
-        <activity android:name=".WorkSecSchoolActivity" />
-        <activity android:name=".AdoleDevProActivity" />
-        <activity android:name=".MultipurposeComLearningActivity" />
-        <activity android:name=".InclusiveEducationActivity" />
-        <activity android:name=".BRAcPreprimaryActivity" />
+        <activity android:name=".AtGlanceActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".BRAPrimarySchoolActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".ShishuNiketonActivity"
+
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".EducationSupportProActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".EarlyChildDev2Activity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".WorkSecSchoolActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".AdoleDevProActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+
+        <activity android:name=".MultipurposeComLearningActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".InclusiveEducationActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".BRAcPreprimaryActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
         <activity android:name=".FactSheetActivity" />
-        <activity android:name=".OverViewActivity" />
-        <activity android:name=".ManagementServicesActivity" />
-        <activity android:name=".TBGActivity" />
-        <activity android:name=".NewInterventionActivity"></activity>
+        <activity android:name=".OverViewActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".ManagementServicesActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".TBGActivity"
+
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".NewInterventionActivity">android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
     </application>
 
 </manifest>

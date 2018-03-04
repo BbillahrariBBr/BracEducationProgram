@@ -18,6 +18,7 @@ public class AtGlanceActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_at_glance);
+
         setUpUiAtaGlance();
         setSupportActionBar(toolbar);
         if (getSupportActionBar()!=null){
