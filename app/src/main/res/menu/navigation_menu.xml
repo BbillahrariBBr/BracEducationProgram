@@ -57,6 +57,14 @@
             android:title="Management services"
             android:id="@+id/management_services" />
 
+        <item
+            android:title="@string/organogram"
+            android:id="@+id/organogram" />
+
+        <item
+            android:title="@string/beptimeline"
+            android:id="@+id/beptimeline" />
+
 
 
     </group>

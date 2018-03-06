@@ -1,7 +1,10 @@
 package com.example.bakibillah.navigationbracedu;
 
+import android.app.DownloadManager;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -35,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     Button factsheet;
     SliderLayout sliderLayout;
     HashMap<String, String> Hash_file_maps;
+    DownloadManager downloadManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +50,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,FactSheetActivity.class));
+
+//                downloadManager = (DownloadManager)getSystemService(Context.DOWNLOAD_SERVICE);
+//                Uri uri = Uri.parse("https://www.brac.net/sites/default/files/factsheet/june15/education.pdf");
+//                DownloadManager.Request request = new DownloadManager.Request(uri);
+//                request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED);
+//                Long reference = downloadManager.enqueue(request);
             }
         });
         toggle = new ActionBarDrawerToggle(MainActivity.this,drawerLayout,
@@ -198,6 +208,15 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             case R.id.new_interventions:
                 intent = new Intent(MainActivity.this,NewInterventionActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.organogram:
+                intent = new Intent(MainActivity.this,OrganogramActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.beptimeline:
+                intent = new Intent(MainActivity.this,BEPTimelineActivity.class);
                 startActivity(intent);
                 break;
         }
