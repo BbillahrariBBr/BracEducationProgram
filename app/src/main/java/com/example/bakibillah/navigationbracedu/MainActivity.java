@@ -219,6 +219,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 intent = new Intent(MainActivity.this,BEPTimelineActivity.class);
                 startActivity(intent);
                 break;
+
+            case R.id.archive:
+                intent = new Intent(MainActivity.this,ArchiveActivity.class);
+                startActivity(intent);
+                break;
         }
         drawerLayout.closeDrawer(GravityCompat.START);
         return true;

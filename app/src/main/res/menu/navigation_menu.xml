@@ -65,6 +65,10 @@
             android:title="@string/beptimeline"
             android:id="@+id/beptimeline" />
 
+        <item
+            android:title="@string/archive"
+            android:id="@+id/archive" />
+
 
 
     </group>

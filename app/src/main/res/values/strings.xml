@@ -83,41 +83,42 @@ Complementing mainstream school systems with innovative teaching methods and mat
         * Outdoor play space Home visit by caregivers Health check-ups"
     </string>
 
+
     <string name="bpps_details">
-        "<b>Why is this intervention necessary?</b><br></br><br></br>
-        <p>Introduced in 1997, pre-primary education is a critical strategic intervention for promoting the quality of primary schooling especially for children who are first-generation learners. Pre-primary education helps children transition from home to formal schooling. The main objective of the programme is to prepare underprivileged children to enter the mainstream primary schools.</p>
-        <br></br>
-        <br></br>
-        <p>Many a times in underprivileged families, parents do not have the education necessary to teach children foundational literacy skills, nor are they equipped to meet the demands and routines of formal schooling. BEP provides a basic academic foundation, and the crucial emotional and physical development required for success in primary schools. Besides education, children with special needs are also provided with medical support and necessary assistive devices.</p>
-        <br></br>
-        <br></br>
-        <b>Key features of BPPS</b>
-        <br></br>
+&lt;body style="text-align:justify;>
 
-        * Centre-based approach with one teacher for 25-30 children<br></br>
-        * Children aged 5-6 years• Sixty per cent of the students are girls<br></br>
-        * No tuition fee<br></br>
-        * Flexible class hours<br></br>
-        * Involvement of the community in addition to 2.5 hours of schooling per day<br></br>
-        * The teacher is a local woman with 10 years of schooling experience<br></br>
-        * The schools are located on catchment of mainstream primary school<br></br>
-        * Fun and activity-based pre-school education<br></br><br></br>
-        <b>How do we ensure quality of teaching?</b><br></br>
-        <p>Preference is given to teachers who have at least 10 years experience of schooling and a senior school certificate. BRAC trains these teachers in the latest and most effective teaching methodologies in a non-formal, creative manner, encouraging effective development of children's communications, language and social skills, active hands on learning, the use of arts including free-hand drawings and other modes of class work</p>
-        <br></br><br></br>
-        <b>What's the linkage with government schools?</b>
-        <br></br>
-        <p>After completing the one-year pre-primary course, all graduates are enrolled in the nearest government or registered non-government primary schools. BRAC staff keeps a track of these children until they complete their primary education.</p>
-        <br></br><br></br>
-        <b>Quick facts:</b>
-        <br></br>
-        * 13,430 BRAC pre-primary schools<br></br><br></br>
-        * 377,954 students, of whom 59.79% are girls<br></br><br></br>
-        * 13,425 teachers, of whom all are women<br></br><br></br>
-        * 6.01 million students completed course to date, of which 61.45% are girls"
+&lt;b>Why is this intervention necessary? &lt;/b> &lt;br>&lt;/br>
+Introduced in 1997, pre-primary education is a critical strategic intervention for promoting the quality of primary schooling especially for children who are first-generation learners. Pre-primary education helps children transition from home to formal schooling. The main objective of the programme is to prepare underprivileged children to enter the mainstream primary schools.
+&lt;br>&lt;/br> &lt;br>&lt;/br>
+Many a times in underprivileged families, parents do not have the education necessary to teach children foundational literacy skills, nor are they equipped to meet the demands and routines of formal schooling. BEP provides a basic academic foundation, and the crucial emotional and physical development required for success in primary schools. Besides education, children with special needs are also provided with medical support and necessary assistive devices.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>Key features of BPPS  &lt;/b>&lt;br>&lt;/br>
+•    Centre-based approach with one teacher for 25-30 children  &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    Children aged 5-6 years• Sixty per cent of the students are girls &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    No tuition fee &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    Flexible class hours  &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    Involvement of the community in addition to 2.5 hours of schooling per day &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    The teacher is a local woman with 10 years of schooling experience &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    The schools are located on catchment of mainstream primary school &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    Fun and activity-based pre-school education  &lt;br>&lt;/br>&lt;br>&lt;/br>
+•    Tracking former pre-primary students during their study in the mainstream primary school through mobilising parents to ensure learning and retention  &lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>How do we ensure quality of teaching?  &lt;/b> &lt;br>&lt;/br>
+Preference is given to teachers who have at least 10 years experience of schooling and a senior school certificate. BRAC trains these teachers in the latest and most effective teaching methodologies in a non-formal, creative manner, encouraging effective development of children's communications, language and social skills, active hands on learning, the use of arts including free-hand drawings and other modes of class work. &lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>What's the linkage with government schools? &lt;/b> &lt;br>&lt;/br>
+After completing the one-year pre-primary course, all graduates are enrolled in the nearest government or registered non-government primary schools. BRAC staff keeps a track of these children until they complete their primary education.
+&lt;b>Quick facts: &lt;/b> &lt;br>&lt;/br>
+13,430 BRAC pre-primary schools
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+377,954 students, of whom 59.79% are girls
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+13,425 teachers, of whom all are women &lt;br>&lt;/br>&lt;br>&lt;/br>
+6.01 million students completed course to date, of which 61.45% are girls
 
 
-    </string>
+&lt;/body>"
+
+</string>
+
 
     <string name="sn_details">
         "<p>BRAC recently launched the shishu niketon programme, a new initiative piloting as a cost-sharing model of primary education. This programme seeks to target families whose level of income makes them ineligible for BRAC’s existing non-formal primary schools, yet who are unable to afford private schooling.</p>
@@ -282,64 +283,96 @@ e) <a href="http://www.brac.net/education-programme/item/781-medhabikash-udyog-t
 
     </string>
 
-    <string name="adp_details">"ADP started in 1993, as a sub-set of BRAC’s school for older children. In order to retain the literacy rate and life skills that many girls lose after primary schooling, BEP opened adolescent clubs giving girls the chance to socialise, play indoor games, sing, dance and exchange views and experiences in safe and supportive spaces. It works with Ministry of Women and Children Affairs (MOWCA) and the Department of Youth Development under the Ministry of Youth and Sports. Moreover, MOWCA signed a MoU with BRAC to replicate the ADP model in seven districts of seven divisions where ADP is providing its services.
+    <string name="adp_details">
+"&lt;body style="text-align:justify;>
+ADP started in 1993, as a sub-set of BRAC’s school for older children. In order to retain the literacy rate and life skills that many girls lose after primary schooling, BEP opened adolescent clubs giving girls the chance to socialise, play indoor games, sing, dance and exchange views and experiences in safe and supportive spaces. It works with Ministry of Women and Children Affairs (MOWCA) and the Department of Youth Development under the Ministry of Youth and Sports. Moreover, MOWCA signed a MoU with BRAC to replicate the ADP model in seven districts of seven divisions where ADP is providing its services.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+Activities of the adolescent development programme &lt;br>&lt;/br> &lt;br>&lt;/br>
+&lt;b>Adolescent clubs (kishori club) &lt;/b> are safe centres where adolescents girls can read, socialise, play games, take part in cultural activities and have open discussions on personal and social issues with their peers. Each club comprises of 25-35 adolescent members in the age group of 10 to 19 years. One adolescent leader is responsible for the operation of a club. At present there are around 9,000 adolescent clubs all over Bangladesh. Activities include book exchange, reading, playing indoor and outdoor games, performing cultural programmes and observing different international and national days.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b> Adolescent peer organised network (APON/Life skill-based education) &lt;/b> offers adolescents education on life skills facilitated by their peers on different social and health-related issues, such as reproductive health, sexual abuse, children’s rights, gender, HIV/AIDS, sexually transmitted infections (STIs), sexual harassment, child trafficking, substance abuse, violence, family planning, child marriage, dowry, and acid attacks. The purpose is to develop adolescent life skills and raise awareness on important but taboo issues. These courses are offered in adolescent clubs, secondary schools, madrasas (religious schools) and work places. To work more exclusively on life skills, especially on sexual and reproductive health, ADP partnered with the sexual and reproductive health rights (SRHR) project. SRHR project is a three-year (July 2013-June 2016) campaign-based programme, supported by Oxfam and implemented by ADP and BRAC’s gender justice and diversity programme. The project has been implemented in 65 non-government secondary schools of four districts (Khulna, Jessore, Sylhet and Rangpur) of Bangladesh. The programme strategy is based on a five-sided advocacy approach – political lobby, mobile phones, mass media, peer education and edutainment. The project aims to empoweradolescents through adequate skills and information on sexual and reproductive health and rights so that they can make free and informed decisions in an enabling and safe environment. SRHR targets both parents and adolescents, ensuring timely access to the right SRHR information and developing corresponding life skills, and gradually break the stigma that is responsible for trauma and early deaths among mothers and children. ADP also provides counselling facilities for adolescents especially girls, through trained counsellors to promote emotional and physical well-being.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>Livelihood training courses &lt;/b> are offered to girls to empower them financially. ADP provides girls with training on managing beauty salons, photography and bakery. In collaboration with BITAC (B ADP participants also have the opportunity to be trained on various trades (mobile, television or refrigerator servicing, plastic processing, light machineries, autocad, carpentry). In addition, ADP also collaborated with the Ministry of Youth and Sport and other local organisations, from where the adolescents receive training on journalism, poultry, livestock, tailoring and embroidery.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>Communication, awareness and advocacy &lt;/b> encourages interaction and dialogue among adolescents, their parents and community leaders. Different types of forums with mothers, parents and community heads create the foundation for a supportive communication network. This formalised communication network not only helps ensure the voices of adolescents to be heard but also provides transparency in community’s attitudes supporting adolescent development.
+ADP communications, awareness and advocacy are responsible for the following initiatives: &lt;br>&lt;/br> &lt;br>&lt;/br>
+&lt;b>STAGE (stimulating theatre for adolescent girl empowerment) &lt;/b>plays a strong role in disseminating and initiating dialogue among community audiences. ADP established the STAGE group (originally known as the APON interactive theatre group), in 2005, across the country with its adolescent members. Each group performs theatre shows on different social issues and health issues, such as HIV/AIDS, dowry, child marriage, birth , child trafficking, and abuse all to create awareness among community members. This initiative has enabled ADP to reach a wider community in an interactive manner. At present, ADP has 190 STAGE groups with 1,900 active members all over Bangladesh. &lt;br>&lt;/br>  &lt;br>&lt;/br>
+&lt;b> Adolescent fair &lt;/b>has also been introduced in 2008, as a part of ADP’s different awareness activities. This fair creates an important space solely for adolescents. This occasion helps bring their potential in the frontfront.  Handicrafts made by adolescent club members are sold at the fair. Cultural programmes, essay writing and painting competitions, sporting events, theatre and rallies are organised as part of this event. Through these fairs, ADP tries to involve people from every sphere of the community to generate interest and awareness on the lives of adolescents. &lt;br>&lt;/br> &lt;br>&lt;/br>
+&lt;b> Cultural competitions &lt;/b> are an initiative to educate communities about the importance of cultural activities for the cognitive development of adolescents. This activity brings out their talent through cultural competitions and provides the required training to increase their capacity in cultural performances. This competition was started by the adolescent clubs followed by cluster adolescent clubs, and then subsequently on the sub-district and district levels. The final competition with top contestants takes place on the national level andbroadcasted on satellite TV channels. This initiative received positive response from communities and has a significant impact on adolescents’ cultural development.
+&lt;br>&lt;/br>
+&lt;a  href="https://www.youtube.com/watch?v=sYUFn45Wr1E&amp;feature=youtu.be" >
+ Meghe Dhaka Tara Grand Finale 2011 &lt;/a> &lt;br>&lt;/br>
+&lt;a  href= "https://www.youtube.com/watch?v=qLKyK9BVfn8&amp;feature=youtu.be">
+Meghe Dhaka Tara Grand Finale 2013 &lt;/a>
+ &lt;br>&lt;/br>&lt;br>&lt;/br>
+ &lt;b>Sports for development &lt;/b>is a new initiative which includes two main activities - outdoor sports and swimming. The outdoor sports initiative involvies adolescent girls and aims to increase participation in outdoor sports. ADP provides formal training by national coaches to form football, cricket and volleyball teams and organises regular practice sessions for girls. This initiative received a positive response from the community and the national sports federation. Currently, there are 35 football teams, 40 cricket teams and 15 volleyball teams.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b> Safe swimming  &lt;/b>is another such initiative which aims to reduce death by drowning. The programme engages adolescents as swimming instructors. ADP started this initiative in July 2009 in collaboration with CIPRB
+&lt;a href="http://www.ciprb.org/ " > (Centre for Injury Prevention and Research, Bangladesh)
+&lt;/a>and the Bangladesh Swimming Federation. In this initiative, technical support is given by CIPRB and the Bangladesh Swimming Federation. Older adolescents (above the age of 18) from the ADP programme are selected as community swimming instructors and trained by Bangladesh Swimming Federation to provide swimming lessons to children from their own communities from the age of four to 10 years.
 
-Activities of the adolescent development programme
-<b>Adolescent clubs (kishori club)</b> are safe centres where adolescents girls can read, socialise, play games, take part in cultural activities and have open discussions on personal and social issues with their peers. Each club comprises of 25-35 adolescent members in the age group of 10 to 19 years. One adolescent leader is responsible for the operation of a club. At present there are around 9,000 adolescent clubs all over Bangladesh. Activities include book exchange, reading, playing indoor and outdoor games, performing cultural programmes and observing different international and national days.
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b> Goal project &lt;/b> is another innovative project under sports for development activities. It is a partnership project between ADP and Women Win (a Nederland-based organisation that promotes life skills through sports). It is an initiative first of its kind in Bangladesh where adolescent girls are developed as coaches, who then train other girls in various sports. The coach also teaches life skills lessons to girls following four main ideas: be yourself, be healthy, be empowered, be money savvy. In these lessons, girls learn life skills such as financial education, self-confidence, and many more. The objective of the project is to empower girls so that they can take decisions on important choices such as education, employment and marriage. The goal project also promotes a healthy community outlook towards adolescent girls and their roles in society. In addition, sports build different life skills such as teamwork, leadership, stress management, communication, negotiation, decision making, creativity and critical thinking. Girls learn the art of self-defence through karate . They actively participate in sports such as football, cricket and netball. The project is implemented in four districts (Bagura, Sylhet, Narayanganj and Chittagong) of Bangladesh with 52 adolescent girl coaches of 163 adolescent clubs, in 42 secondary schools – reaching a total of 5,700 adolescent girls. &lt;br>&lt;/br>
+Watch a quick video of BRAC’s karate girls:
+&lt;a href="https://www.youtube.com/watch?v=ehOf_NKsNCo"> https://www.youtube.com/watch?v=ehOf_NKsNCo &lt;/a>
+&lt;br>&lt;/br>&lt;br>&lt;/br> &lt;/b>
+&lt;b> Tutorial initiative for adolescents (TIA) &lt;/b> is for secondary-level students who need assistance in subjects such as English, mathematics and science. The majority of adolescent members of ADP come from poor families, and lack the ability to bear the expenses of tutorial support outside their school. Most are first-generation learners and so cannot obtain academic support from their families. In addition to this, there are some academic standard requirements set by the government in order to get a stipend. As they are unable to maintain that standard, many adolescents drop out from school. Eventually, many of the girls’ parents end up arranging marriages of their girls to reduce their financial burden. To address this issue, ADP started TIA to support girls in continuing their education. ADP trained a group of tutors who provides tutorial support for a minimum charge or on a voluntary basis to girls. The tutors receive training and refresher courses on how to deliver lessons on secondary-level science, mathematics and English.  &lt;br>&lt;/br>&lt;br>&lt;/br>
 
-<b>Adolescent peer organised network (APON/Life skill-based education)</b> offers adolescents education on life skills facilitated by their peers on different social and health-related issues, such as reproductive health, sexual abuse, children’s rights, gender, HIV/AIDS, sexually transmitted infections (STIs), sexual harassment, child trafficking, substance abuse, violence, family planning, child marriage, dowry, and acid attacks. The purpose is to develop adolescent life skills and raise awareness on important but taboo issues. These courses are offered in adolescent clubs, secondary schools, madrasas (religious schools) and work places. To work more exclusively on life skills, especially on sexual and reproductive health, ADP partnered with the sexual and reproductive health rights (SRHR) project. SRHR project is a three-year (July 2013-June 2016) campaign-based programme, supported by Oxfam and implemented by ADP and BRAC’s gender justice and diversity programme. The project has been implemented in 65 non-government secondary schools of four districts (Khulna, Jessore, Sylhet and Rangpur) of Bangladesh. The programme strategy is based on a five-sided advocacy approach – political lobby, mobile phones, mass media, peer education and edutainment. The project aims to empoweradolescents through adequate skills and information on sexual and reproductive health and rights so that they can make free and informed decisions in an enabling and safe environment. SRHR targets both parents and adolescents, ensuring timely access to the right SRHR information and developing corresponding life skills, and gradually break the stigma that is responsible for trauma and early deaths among mothers and children. ADP also provides counselling facilities for adolescents especially girls, through trained counsellors to promote emotional and physical well-being.
-
-<b>Livelihood training courses</b> are offered to girls to empower them financially. ADP provides girls with training on managing beauty salons, photography and bakery. In collaboration with BITAC (B ADP participants also have the opportunity to be trained on various trades (mobile, television or refrigerator servicing, plastic processing, light machineries, autocad, carpentry). In addition, ADP also collaborated with the Ministry of Youth and Sport and other local organisations, from where the adolescents receive training on journalism, poultry, livestock, tailoring and embroidery.
-
-<b>Communication, awareness and advocacy</b> encourages interaction and dialogue among adolescents, their parents and community leaders. Different types of forums with mothers, parents and community heads create the foundation for a supportive communication network. This formalised communication network not only helps ensure the voices of adolescents to be heard but also provides transparency in community’s attitudes supporting adolescent development.
-ADP communications, awareness and advocacy are responsible for the following initiatives:
-<b>STAGE (stimulating theatre for adolescent girl empowerment)</b> plays a strong role in disseminating and initiating dialogue among community audiences. ADP established the STAGE group (originally known as the APON interactive theatre group), in 2005, across the country with its adolescent members. Each group performs theatre shows on different social issues and health issues, such as HIV/AIDS, dowry, child marriage, birth , child trafficking, and abuse all to create awareness among community members. This initiative has enabled ADP to reach a wider community in an interactive manner. At present, ADP has 190 STAGE groups with 1,900 active members all over Bangladesh.
-<b>Adolescent fair</b> has also been introduced in 2008, as a part of ADP’s different awareness activities. This fair creates an important space solely for adolescents. This occasion helps bring their potential in the frontfront.  Handicrafts made by adolescent club members are sold at the fair. Cultural programmes, essay writing and painting competitions, sporting events, theatre and rallies are organised as part of this event. Through these fairs, ADP tries to involve people from every sphere of the community to generate interest and awareness on the lives of adolescents.
-<b>Cultural competitions</b> are an initiative to educate communities about the importance of cultural activities for the cognitive development of adolescents. This activity brings out their talent through cultural competitions and provides the required training to increase their capacity in cultural performances. This competition was started by the adolescent clubs followed by cluster adolescent clubs, and then subsequently on the sub-district and district levels. The final competition with top contestants takes place on the national level andbroadcasted on satellite TV channels. This initiative received positive response from communities and has a significant impact on adolescents’ cultural development.
-
-<a href="https://www.youtube.com/watch?v=sYUFn45Wr1E&amp;feature=youtu.be">Meghe Dhaka Tara Grand Finale 2011</a>
-<a href="https://www.youtube.com/watch?v=qLKyK9BVfn8&amp;feature=youtu.be">Meghe Dhaka Tara Grand Finale 2013</a>
-
-<b>Sports for development</b> is a new initiative which includes two main activities - outdoor sports and swimming. The outdoor sports initiative involvies adolescent girls and aims to increase participation in outdoor sports. ADP provides formal training by national coaches to form football, cricket and volleyball teams and organises regular practice sessions for girls. This initiative received a positive response from the community and the national sports federation. Currently, there are 35 football teams, 40 cricket teams and 15 volleyball teams.
-
-<b>Safe swimming</b> is another such initiative which aims to reduce death by drowning. The programme engages adolescents as swimming instructors. ADP started this initiative in July 2009 in collaboration with CIPRB (<a href="http://www.ciprb.org/">Centre for Injury Prevention and Research, Bangladesh</a>) and the Bangladesh Swimming Federation. In this initiative, technical support is given by CIPRB and the Bangladesh Swimming Federation. Older adolescents (above the age of 18) from the ADP programme are selected as community swimming instructors and trained by Bangladesh Swimming Federation to provide swimming lessons to children from their own communities from the age of four to 10 years.
-
-
-<b>Goal project</b> is another innovative project under sports for development activities. It is a partnership project between ADP and Women Win (a Nederland-based organisation that promotes life skills through sports). It is an initiative first of its kind in Bangladesh where adolescent girls are developed as coaches, who then train other girls in various sports. The coach also teaches life skills lessons to girls following four main ideas: be yourself, be healthy, be empowered, be money savvy. In these lessons, girls learn life skills such as financial education, self-confidence, and many more. The objective of the project is to empower girls so that they can take decisions on important choices such as education, employment and marriage. The goal project also promotes a healthy community outlook towards adolescent girls and their roles in society. In addition, sports build different life skills such as teamwork, leadership, stress management, communication, negotiation, decision making, creativity and critical thinking. Girls learn the art of self-defence through karate . They actively participate in sports such as football, cricket and netball. The project is implemented in four districts (Bagura, Sylhet, Narayanganj and Chittagong) of Bangladesh with 52 adolescent girl coaches of 163 adolescent clubs, in 42 secondary schools – reaching a total of 5,700 adolescent girls.
-Watch a quick video of BRAC’s karate girls: <a href="https://www.youtube.com/watch?v=ehOf_NKsNCo">https://www.youtube.com/watch?v=ehOf_NKsNCo</a>
-
-<b>Tutorial initiative for adolescents (TIA)</b> is for secondary-level students who need assistance in subjects such as English, mathematics and science. The majority of adolescent members of ADP come from poor families, and lack the ability to bear the expenses of tutorial support outside their school. Most are first-generation learners and so cannot obtain academic support from their families. In addition to this, there are some academic standard requirements set by the government in order to get a stipend. As they are unable to maintain that standard, many adolescents drop out from school. Eventually, many of the girls’ parents end up arranging marriages of their girls to reduce their financial burden. To address this issue, ADP started TIA to support girls in continuing their education. ADP trained a group of tutors who provides tutorial support for a minimum charge or on a voluntary basis to girls. The tutors receive training and refresher courses on how to deliver lessons on secondary-level science, mathematics and English.
-
-<b>New initiatives</b>
-<b>English and ICT for adolescents (EITA)</b>
-In 2012, ADP and The British Council partnered to reach out to marginalised young girls and bring them to the forefront through the EITA project. The project employed a unique method of using peer groups and digital devices (netbooks) to teach ICT skills and basic English instead of the traditional classroom-based methods. After a six-day training, girls are selected as peer leaders to facilitate sessions to other girls. The EITA project has three mains objectives -:
-1.	Create access to ICT and English in an easy learning environment for adolescents (particularly girls)
-2.	Build capacity of adolescents (particularly girls) in English and ICT skills to  open up more opportunities
-3.	Generate interest in learning English and ICT skills for adolescents (particularly girls) by involving parents and members of community into different project activities
-In 2013, EITA project earned its’ true recognition by achieving Manthan Award 2013 on e-women and empowerment category. Manthan Award is an initiative first of its kind initiative to recognise the best use of ICT and digital tools to create holistic and comprehensive impact on people.
-Watch a quick view of the project here: <a href="http://youtu.be/Zlczzqob_pw">http://youtu.be/Zlczzqob_pw</a>
-For more details on Manthan Award, visit: <a href="http://www.manthanaward.org">http://www.manthanaward.org</a>
-
-<b>English through mobile phone:</b>
-English through mobile phones is another new initiativeADP took to increase girls’ access to learning English using mobile phones. It also employment opportunities. The programme targets adolescent girls to:
-•	Increase access to educational and employment opportunities in Bangladesh
-•	Enrol girls into the GSMA Foundation’s (a UK-based foundation) (Groupe Speciale Mobile Association), mWomen project (a project of GSMA works for women empowerment through mobile phone) ‘English through mobile phones’ programme to give them functional English learning content for future employment in the ICT Industry
+&lt;h3> New initiatives &lt;/h3> &lt;br>&lt;/br>
+ &lt;b> English and ICT for adolescents (EITA)  &lt;/b> &lt;br>&lt;/br>&lt;br>&lt;/br>
+In 2012, ADP and The British Council partnered to reach out to marginalised young girls and bring them to the forefront through the EITA project. The project employed a unique method of using peer groups and digital devices (netbooks) to teach ICT skills and basic English instead of the traditional classroom-based methods. After a six-day training, girls are selected as peer leaders to facilitate sessions to other girls. The EITA project has three mains objectives -: &lt;br>&lt;/br> &lt;br>&lt;/br>
+1.	Create access to ICT and English in an easy learning environment for adolescents (particularly girls) &lt;br>&lt;/br> &lt;br>&lt;/br>
+2.	Build capacity of adolescents (particularly girls) in English and ICT skills to  open up more opportunities &lt;br>&lt;/br> &lt;br>&lt;/br>
+3.	Generate interest in learning English and ICT skills for adolescents (particularly girls) by involving parents and members of community into different project activities &lt;br>&lt;/br>&lt;br>&lt;/br>
+In 2013, EITA project earned its’ true recognition by achieving Manthan Award 2013 on e-women and empowerment category. Manthan Award is an initiative first of its kind initiative to recognise the best use of ICT and digital tools to create holistic and comprehensive impact on people. &lt;br>&lt;/br>
+Watch a quick view of the project here: &lt;/a href = "http://youtu.be/Zlczzqob_pw "> http://youtu.be/Zlczzqob_pw  &lt;/a> &lt;br>&lt;/br>
+For more details on Manthan Award, visit: &lt;a href= " http://www.manthanaward.org "> http://www.manthanaward.org &lt;/a>
+ &lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>English through mobile phone: &lt;/b> &lt;br>&lt;/br>
+English through mobile phones is another new initiativeADP took to increase girls’ access to learning English using mobile phones. It also employment opportunities. The programme targets adolescent girls to: &lt;br>&lt;/br>&lt;br>&lt;/br>
+•	Increase access to educational and employment opportunities in Bangladesh &lt;br>&lt;/br>&lt;br>&lt;/br>
+•	Enrol girls into the GSMA Foundation’s (a UK-based foundation) (Groupe Speciale Mobile Association), mWomen project (a project of GSMA works for women empowerment through mobile phone) ‘English through mobile phones’ programme to give them functional English learning content for future employment in the ICT Industry &lt;br>&lt;/br>&lt;br>&lt;/br>
 •	Develop alternate channels of distribution through BRAC’s peer leaders to sell easy load, scratch and SIM cards to empower them with a source of income
-
+ &lt;br>&lt;/br>&lt;br>&lt;/br>
 The project is a joint collaboration of BRAC, The British Council and Robi Axiatia Limited. The programme is piloting activities through 600 adolescents clubs in four districts (Dhaka, Manikganj, Tangail and Chittagong) of Bangladesh.   A total of 600 trained peer leaders from 600 clubs are providing English course through mobile and other mobile operation systems to peers of the clubs.
-
-<b>Adolescent savings through mobile banking project</b>
-This project is a joint collaboration of BRAC’s adolescent development programme (ADP), social innovation lab (SIL) and microfinance programme. Objectives of the project are:
-•	To enrol adolescents, especially girls in formal savings through mobile banking to utilise mobile money responsibly and in ways that advance their lives
+&lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b>Adolescent savings through mobile banking project &lt;/b>  &lt;br>&lt;/br>
+This project is a joint collaboration of BRAC’s adolescent development programme (ADP), social innovation lab (SIL) and microfinance programme. Objectives of the project are: &lt;br>&lt;/br>&lt;br>&lt;/br>
+•	To enrol adolescents, especially girls in formal savings through mobile banking to utilise mobile money responsibly and in ways that advance their lives &lt;br>&lt;/br> &lt;br>&lt;/br>
 •	Create savings habit among   adolescents, particularly girls so that they can be in better control over their lives
-
+ &lt;br>&lt;/br>&lt;br>&lt;/br>
 This initiative is running in four districts (Sylhet, Manikgonj, Tangail and Narshingdi) of Bangladesh where 728 trained adolescent leaders are providing assistance to more than 22,000 adolescents with handling mobile money transactions. Adolescent members can do two types of savings: general savings (weekly) and term deposit (DPS), (monthly) in their branch wallet.
+ &lt;br>&lt;/br>&lt;br>&lt;/br>
+&lt;b> Dabi kishori project (DKP) &lt;/b> &lt;br>&lt;/br>
+This project is a joint collaboration of two existing programmes; BRAC’s adolescent development programme and microfinance. It aims to enable them to lead their lives with independence and dignity. It is a youth-focused financial service based around ADP clubs. It follows a graduation model (young borrowers graduating to the mainstream dabi model of BRAC’s microfinance). It builds on the work of the existing interventions by learning from their past experiences and also incorporating new ideas based on current experience, in order to establish a model that will work towards achieving higher and more sustainable outcomes for the adolescent girls of Bangladesh. &lt;br>&lt;/br>
+DKP targets girls aged between 11 years to 21 years. It has 375 clubs, currently reaching over 14,000 girls. It operates in 21 branches across six regions (Rajshahi, Mymensingh, Pabna, Comilla, Savar, and Magura) of Bangladesh
+&lt;/body>"
 
-<b>Dabi kishori project (DKP)</b><br></br>
-This project is a joint collaboration of two existing programmes; BRAC’s adolescent development programme and microfinance. It aims to enable them to lead their lives with independence and dignity. It is a youth-focused financial service based around ADP clubs. It follows a graduation model (young borrowers graduating to the mainstream dabi model of BRAC’s microfinance). It builds on the work of the existing interventions by learning from their past experiences and also incorporating new ideas based on current experience, in order to establish a model that will work towards achieving higher and more sustainable outcomes for the adolescent girls of Bangladesh.
-DKP targets girls aged between 11 years to 21 years. It has 375 clubs, currently reaching over 14,000 girls. It operates in 21 branches across six regions (Rajshahi, Mymensingh, Pabna, Comilla, Savar, and Magura) of Bangladesh.
+</string>
 
-"</string>
+    <string name="archive_details">"
+<b>Projects:</b>
+a.    <a href="http://brac.net/education-programme/item/762-boat-school">Shikkha Tari: Boat School</a>
+b.    <a href="http://brac.net/education-programme/item/763-school-for-dropped-out-children">School for dropped out children</a>
+c.    <a href="http://brac.net/education-programme/item/767-performing-and-fine-arts-pfa">Performing and fine arts</a>
+d.    <a href="http://brac.net/education-programme/item/765-total-learning-experience-tle">Total learning experience (TLE) </a>
+e.    <a href="http://brac.net/education-programme/item/764-school-for-street-children">School for street children</a>
+f.     <a href="http://brac.net/education-programme/item/766-social-and-emotional-learning-sel">Social and emotional learning (SEL) </a>
+g.   <a href="http://www.brac.net/education-programme/item/919-mobile-library-for-brac-primary-schools"> Aflatoun</a>
+h.    <a href="">Mobile library for BRAC Primary Schools</a>
+i.     <a href="https://brac.net/education-programme/item/920-interactive-digital-content-in-primary-education">Interactive digital content in primary education</a>
+j.     <a href="https://www.brac.net/education-programme/item/921-kumon-mathematics-at-brac-schools">Kumon mathematics at BRAC schools</a>
+
+
+<b>Read Stories: </b>
+<a href="http://blog.brac.net/2011/10/innovative-steps-towards-primary.html">Innovative Steps Towards Primary Education in Haor Area</a>
+<a href="http://www.brac.net/node/744">Akhi studies hard to be a teacher. </a>
+<a href="http://www.brac.net/node/601">Alam, a Non-formal Primary School Student, Now Runs His Own. </a>
+
+<b>Related Videos:</b>
+<a href="http://www.brac.net/media-room#lN-1IW1_Fpo">Mitali Dango: BRAC School Teacher</a>
+<a href="http://www.brac.net/404?q=/content/bangladesh-education-primary-schools">BRAC Primary School Students Singing. </a>"
+    </string>
 
     <string name="bps_details">"<b>A second chance at education </b>
 Over the past 29 years, the number of BPS has grown exponentially. We started working in 1985, opening 22 one-room schools and providing three years of schooling up to class 3, which was later extended to class 5. The main objective of non-formal primary schools is to develop a school model for the underprivileged and primary school dropout children, especially girls, to complete the five-year primary school syllabus in four years.
@@ -447,7 +480,9 @@ The heads of partner NGOs are an integral part of the programme; there is no dou
 Initially BRAC started ESP with 26 development organisations and 129 schools. To date, ESP has worked with 1,282 partner NGOs. A total of 0.75 million children have graduated from these schools, of which 98.75 per cent children transferred to mainstream schools.
 In 2009, ESP first introduced five-year curriculum in four years instead of three years course (class 1-3). The students of the 2009 batch participated in the Primary Education Completion Examination (PECE) of class 5 in 2012 witha pass rate of 99.94 per cent.
 "</string>
+
     <string name="organogram">Organogram</string>
     <string name="beptimeline">BEP Timeline</string>
+    <string name="archive">Archive</string>
 
 </resources>

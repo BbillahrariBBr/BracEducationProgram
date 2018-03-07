@@ -16,15 +16,15 @@ public class FactSheetActivity extends AppCompatActivity {
         setContentView(R.layout.activity_fact_sheet);
         //String s = "http://www.brac.net/education";
 
-        PDFView pdfView = (PDFView) findViewById(R.id.pdfView);
-        pdfView.fromAsset("education.pdf").load();
+        //PDFView pdfView = (PDFView) findViewById(R.id.pdfView);
+        //pdfView.fromAsset("education.pdf").load();
 
         //WebView browser = (WebView)findViewById(R.id.webv);
         //browser.setWebChromeClient(new WebChromeClient());
         //browser.setWebViewClient(new WebViewClient());
         //browser.loadUrl("http://www.brac.net/education");
 
-//        browser.getSettings().setJavaScriptEnabled(true);
-//        browser.loadUrl("https://docs.google.com/viewer?url=https://www.brac.net/sites/default/files/factsheet/june15/education.pdf");
+        //browser.getSettings().setJavaScriptEnabled(true);
+        //browser.loadUrl("https://docs.google.com/viewer?url=https://www.brac.net/sites/default/files/factsheet/june15/education.pdf");
     }
 }

@@ -67,7 +67,7 @@
                     android:padding="12dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
-
+<!--
                 <LinearLayout
                     android:padding="12dp"
                     android:layout_width="match_parent"
@@ -94,8 +94,9 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content" />
                 </LinearLayout>
-
+-->
                 <com.borjabravo.readmoretextview.ReadMoreTextView
+                    android:id="@+id/readMoreTextView"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/tbg_details"
